@@ -2,8 +2,9 @@ version: 2.1
 
 jobs:
   test:
-    machine:
-      image: windows-server-2019-stable  # Use Windows Server 2019 environment
+    executor:
+      name: windows/default
+      resource_class: windows.large  # Specifies a Windows resource class
     working_directory: C:\repo
 
     steps:

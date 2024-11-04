@@ -2,9 +2,8 @@ version: 2.1
 
 jobs:
   test:
-    executor:
-      name: windows/default
-      resource_class: windows.large  # Specifies a Windows resource class
+    machine:
+      image: windows  # Use the machine executor with a Windows image
     working_directory: C:\repo
 
     steps:

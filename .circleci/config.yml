@@ -22,7 +22,7 @@ jobs:
           command: rm -rf ./reports/allure-results  # Clear old results from reports folder
 
 
-      - save_cache:  # Step 3: Cache Node.js dependencies
+      - save_cache:  # Step 3: Cache Node.js dependency
           paths:
             - node_modules
           key: v1-deps-{{ checksum "package.json" }}

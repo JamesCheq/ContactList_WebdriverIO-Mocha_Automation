@@ -2,9 +2,9 @@ version: 2.1
 
 jobs:
   test:
-    docker:
-      - image: cimg/node:20.5.0-browsers  # Use a Node.js image with browser
-    working_directory: ~/repo
+    machine:
+      image: windows-server-2019-stable  # Use Windows Server 2019 environment
+    working_directory: C:\repo
 
     steps:
       - checkout  # Step 1: Checkout the code

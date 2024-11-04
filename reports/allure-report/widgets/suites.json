@@ -1,0 +1,92 @@
+{
+  "total" : 8,
+  "items" : [ {
+    "uid" : "00c324f5f9da915c22578e8dd22fecca",
+    "name" : "Edit Contact via API @APIEdit @ALLAPI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "0bd06f813114878eba15853c9fe2a606",
+    "name" : "Contact Creation for the New User via UI @UIContact @ALLUI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "7ef05ff2a8bdcc34aae64a4cdc80bbf2",
+    "name" : "Account Creation via UI @UICreation @ALLUI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "3bc35617e18bdf01ba5cddeaef4398db",
+    "name" : "Contact Creation for the New User via API @APIContact @ALLAPI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "77cfdf8f17749eaf654d958b8c26f2fe",
+    "name" : "Edit Contact via UI @UIEdit @ALLUI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "f33a85f6506fad014113c862de45c9a9",
+    "name" : "Contact Deletion via UI @UIDelete @ALLUI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "a80ab3b399858b9fb06534998ccf5f3d",
+    "name" : "Delete Contact via API @APIDelete @ALLAPI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "aebfd5dfec55aaa4c27b65fab6dc501f",
+    "name" : "Account Creation via API @APICreation @ALLAPI",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

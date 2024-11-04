@@ -1,0 +1,574 @@
+{
+  "uid" : "9d4d37b55452972a",
+  "name" : "Successful Contact Deletion @uideletecontact",
+  "historyId" : "540494427f9681120f99d643054bdf0e",
+  "time" : {
+    "start" : 1729644847995,
+    "stop" : 1729644881711,
+    "duration" : 33716
+  },
+  "status" : "broken",
+  "statusMessage" : "WebDriver Bidi command \"script.callFunction\" failed with error: unknown error - Node with given id does not belong to the document",
+  "statusTrace" : "Error: WebDriver Bidi command \"script.callFunction\" failed with error: unknown error - Node with given id does not belong to the document\n    at ContactDetailsPage.clickDelete (c:\\Users\\Jason Solis\\Documents\\Automation\\Selenium Javascript WebdriverIO\\Contact_List_Mocha_Automation\\pages\\base_page.js:134:37)\n\nDriver Stack:\n    at Error\n    at     at new UnknownErrorException (<anonymous>:81:4591)\n    at     at WindowRealm.deserializeForCdp (<anonymous>:581:3124)\n    at     at async <anonymous>:549:6365\n    at     at async Promise.all (index 0)\n    at     at async WindowRealm.callFunction (<anonymous>:549:6295)\n    at     at async WindowRealm.callFunction (<anonymous>:581:3824)\n    at     at async ScriptProcessor.callFunction (<anonymous>:436:2259)\n    at     at async #processCommand (<anonymous>:517:6486)\n    at     at async CommandProcessor.processCommand (<anonymous>:517:8281)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "WebDriver Bidi command \"script.callFunction\" failed with error: unknown error - Node with given id does not belong to the document",
+    "statusTrace" : "Error: WebDriver Bidi command \"script.callFunction\" failed with error: unknown error - Node with given id does not belong to the document\n    at ContactDetailsPage.clickDelete (c:\\Users\\Jason Solis\\Documents\\Automation\\Selenium Javascript WebdriverIO\\Contact_List_Mocha_Automation\\pages\\base_page.js:134:37)\n\nDriver Stack:\n    at Error\n    at     at new UnknownErrorException (<anonymous>:81:4591)\n    at     at WindowRealm.deserializeForCdp (<anonymous>:581:3124)\n    at     at async <anonymous>:549:6365\n    at     at async Promise.all (index 0)\n    at     at async WindowRealm.callFunction (<anonymous>:549:6295)\n    at     at async WindowRealm.callFunction (<anonymous>:581:3824)\n    at     at async ScriptProcessor.callFunction (<anonymous>:436:2259)\n    at     at async #processCommand (<anonymous>:517:6486)\n    at     at async CommandProcessor.processCommand (<anonymous>:517:8281)",
+    "steps" : [ {
+      "name" : "click Sign Up Button",
+      "time" : {
+        "start" : 1729644851485,
+        "stop" : 1729644852011,
+        "duration" : 526
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c3bacc5ae94d34da",
+        "name" : "click Sign Up Button",
+        "source" : "c3bacc5ae94d34da.png",
+        "type" : "image/png",
+        "size" : 28516
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter First Name",
+      "time" : {
+        "start" : 1729644852470,
+        "stop" : 1729644853148,
+        "duration" : 678
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "31f060d1d07a48a6",
+        "name" : "enter First Name",
+        "source" : "31f060d1d07a48a6.png",
+        "type" : "image/png",
+        "size" : 28866
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Last Name",
+      "time" : {
+        "start" : 1729644854114,
+        "stop" : 1729644854579,
+        "duration" : 465
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a6f2883b50712bd6",
+        "name" : "enter Last Name",
+        "source" : "a6f2883b50712bd6.png",
+        "type" : "image/png",
+        "size" : 28813
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Email",
+      "time" : {
+        "start" : 1729644855083,
+        "stop" : 1729644855568,
+        "duration" : 485
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "35e86ccfc642e9d4",
+        "name" : "enter Email",
+        "source" : "35e86ccfc642e9d4.png",
+        "type" : "image/png",
+        "size" : 29755
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Password",
+      "time" : {
+        "start" : 1729644856162,
+        "stop" : 1729644856596,
+        "duration" : 434
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8cc48ab74f57a278",
+        "name" : "enter Password",
+        "source" : "8cc48ab74f57a278.png",
+        "type" : "image/png",
+        "size" : 29560
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click Submit Button",
+      "time" : {
+        "start" : 1729644857191,
+        "stop" : 1729644857685,
+        "duration" : 494
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c8e87a1febb7cb35",
+        "name" : "click Submit Button",
+        "source" : "c8e87a1febb7cb35.png",
+        "type" : "image/png",
+        "size" : 29189
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "validate Contact List",
+      "time" : {
+        "start" : 1729644858893,
+        "stop" : 1729644859380,
+        "duration" : 487
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "82e3e2b0134d99e6",
+        "name" : "validate Contact List",
+        "source" : "82e3e2b0134d99e6.png",
+        "type" : "image/png",
+        "size" : 32469
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click Add Contact Button",
+      "time" : {
+        "start" : 1729644860508,
+        "stop" : 1729644862001,
+        "duration" : 1493
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "528e208ff21aca9b",
+        "name" : "click Add Contact Button",
+        "source" : "528e208ff21aca9b.png",
+        "type" : "image/png",
+        "size" : 43968
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "verify Add Contact Page Header",
+      "time" : {
+        "start" : 1729644862302,
+        "stop" : 1729644862958,
+        "duration" : 656
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "296d48588579b047",
+        "name" : "verify Add Contact Page Header",
+        "source" : "296d48588579b047.png",
+        "type" : "image/png",
+        "size" : 43968
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter First Name",
+      "time" : {
+        "start" : 1729644863641,
+        "stop" : 1729644864182,
+        "duration" : 541
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "224bc337102411dd",
+        "name" : "enter First Name",
+        "source" : "224bc337102411dd.png",
+        "type" : "image/png",
+        "size" : 44749
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Last Name",
+      "time" : {
+        "start" : 1729644864743,
+        "stop" : 1729644865243,
+        "duration" : 500
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "56f7e4368dc88382",
+        "name" : "enter Last Name",
+        "source" : "56f7e4368dc88382.png",
+        "type" : "image/png",
+        "size" : 44349
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Birthday",
+      "time" : {
+        "start" : 1729644865776,
+        "stop" : 1729644866196,
+        "duration" : 420
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2b600a6c3385eef9",
+        "name" : "enter Birthday",
+        "source" : "2b600a6c3385eef9.png",
+        "type" : "image/png",
+        "size" : 44656
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Email",
+      "time" : {
+        "start" : 1729644866939,
+        "stop" : 1729644867388,
+        "duration" : 449
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dab23ba22805b6d1",
+        "name" : "enter Email",
+        "source" : "dab23ba22805b6d1.png",
+        "type" : "image/png",
+        "size" : 45137
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Phone",
+      "time" : {
+        "start" : 1729644868310,
+        "stop" : 1729644868881,
+        "duration" : 571
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8230e3b650ff0fb2",
+        "name" : "enter Phone",
+        "source" : "8230e3b650ff0fb2.png",
+        "type" : "image/png",
+        "size" : 45201
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter First Address",
+      "time" : {
+        "start" : 1729644869367,
+        "stop" : 1729644869795,
+        "duration" : 428
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b3d9edba91964b9",
+        "name" : "enter First Address",
+        "source" : "b3d9edba91964b9.png",
+        "type" : "image/png",
+        "size" : 46851
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Second Address",
+      "time" : {
+        "start" : 1729644870293,
+        "stop" : 1729644870699,
+        "duration" : 406
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c0d2b850d8e74304",
+        "name" : "enter Second Address",
+        "source" : "c0d2b850d8e74304.png",
+        "type" : "image/png",
+        "size" : 46252
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter City",
+      "time" : {
+        "start" : 1729644871132,
+        "stop" : 1729644871564,
+        "duration" : 432
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f145cc561ee6dd8e",
+        "name" : "enter City",
+        "source" : "f145cc561ee6dd8e.png",
+        "type" : "image/png",
+        "size" : 46829
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter State",
+      "time" : {
+        "start" : 1729644871997,
+        "stop" : 1729644872422,
+        "duration" : 425
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2de3305e4e830db0",
+        "name" : "enter State",
+        "source" : "2de3305e4e830db0.png",
+        "type" : "image/png",
+        "size" : 46264
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Postal",
+      "time" : {
+        "start" : 1729644872821,
+        "stop" : 1729644873259,
+        "duration" : 438
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b7b09cf90d3af396",
+        "name" : "enter Postal",
+        "source" : "b7b09cf90d3af396.png",
+        "type" : "image/png",
+        "size" : 46331
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Country",
+      "time" : {
+        "start" : 1729644873815,
+        "stop" : 1729644874241,
+        "duration" : 426
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f30438bb85ff4b3f",
+        "name" : "enter Country",
+        "source" : "f30438bb85ff4b3f.png",
+        "type" : "image/png",
+        "size" : 45934
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click Submit Button for Add new contact",
+      "time" : {
+        "start" : 1729644874443,
+        "stop" : 1729644874882,
+        "duration" : 439
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "83372160cb27ca31",
+        "name" : "click Submit Button for Add new contact",
+        "source" : "83372160cb27ca31.png",
+        "type" : "image/png",
+        "size" : 45550
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "validate Contact List",
+      "time" : {
+        "start" : 1729644876482,
+        "stop" : 1729644877049,
+        "duration" : 567
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7c5e4fdd19a9cc7",
+        "name" : "validate Contact List",
+        "source" : "7c5e4fdd19a9cc7.png",
+        "type" : "image/png",
+        "size" : 28363
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click Contact",
+      "time" : {
+        "start" : 1729644878093,
+        "stop" : 1729644878501,
+        "duration" : 408
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1672b505cdab79af",
+        "name" : "click Contact",
+        "source" : "1672b505cdab79af.png",
+        "type" : "image/png",
+        "size" : 37038
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "validate Contact Details",
+      "time" : {
+        "start" : 1729644878548,
+        "stop" : 1729644878931,
+        "duration" : 383
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b75508560132917e",
+        "name" : "validate Contact Details",
+        "source" : "b75508560132917e.png",
+        "type" : "image/png",
+        "size" : 45691
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "e36a92e2ddedf9ab",
+      "name" : "Screenshot",
+      "source" : "e36a92e2ddedf9ab.png",
+      "type" : "image/png",
+      "size" : 28363
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 25,
+    "stepsCount" : 24,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "C:.Users.Jason Solis.Documents.Automation.Selenium Javascript WebdriverIO.Contact_List_Mocha_Automation.test.ui.Delete_Contract_via_UI.spec.js"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "Contact Deletion via UI @UIDelete @ALLUI"
+  }, {
+    "name" : "feature",
+    "value" : "Contact Deletion via UI @UIDelete @ALLUI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-130.0.6723.59"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d4d37b55452972a.json",
+  "parameterValues" : [ "chrome-130.0.6723.59" ]
+}

@@ -1,0 +1,344 @@
+2024-10-21 09:44:49 - INFO - Clicked on element #signup
+2024-10-21 09:44:49 - INFO - Filled data into #firstName
+2024-10-21 09:44:50 - INFO - Filled data into #lastName
+2024-10-21 09:44:50 - INFO - Filled data into #email
+2024-10-21 09:44:50 - INFO - Filled data into #password
+2024-10-21 09:44:50 - INFO - Clicked on element #submit
+2024-10-21 09:44:52 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 09:44:52 - INFO - Clicked on element #add-contact
+2024-10-21 09:44:53 - INFO - Verified on element #firstName
+2024-10-21 09:44:53 - INFO - Filled data into #firstName
+2024-10-21 09:44:53 - INFO - Filled data into #lastName
+2024-10-21 09:44:53 - INFO - Filled data into #birthdate
+2024-10-21 09:44:54 - INFO - Filled data into #email
+2024-10-21 09:44:54 - INFO - Filled data into #phone
+2024-10-21 09:44:54 - INFO - Filled data into #street1
+2024-10-21 09:44:55 - INFO - Filled data into #street2
+2024-10-21 09:44:55 - INFO - Filled data into #city
+2024-10-21 09:44:55 - INFO - Filled data into #stateProvince
+2024-10-21 09:44:55 - INFO - Filled data into #postalCode
+2024-10-21 09:44:56 - INFO - Filled data into #country
+2024-10-21 09:44:56 - INFO - Clicked on element button[type="submit"]
+2024-10-21 09:44:57 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 09:44:58 - INFO - Clicked on element td:nth-child(2)
+2024-10-21 09:44:58 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-21 09:45:00 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:03:24 - INFO - Clicked on element #signup
+2024-10-21 10:03:25 - ERROR - Error filling data in #firstName: exception_error_visible_element is not defined
+2024-10-21 10:04:50 - INFO - Clicked on element #signup
+2024-10-21 10:04:50 - INFO - This element is visible: #firstName
+2024-10-21 10:04:50 - INFO - Filled data into #firstName
+2024-10-21 10:04:51 - INFO - This element is visible: #lastName
+2024-10-21 10:04:51 - INFO - Filled data into #lastName
+2024-10-21 10:04:51 - INFO - This element is visible: #email
+2024-10-21 10:04:51 - INFO - Filled data into #email
+2024-10-21 10:04:51 - INFO - This element is visible: #password
+2024-10-21 10:04:51 - INFO - Filled data into #password
+2024-10-21 10:04:52 - INFO - Clicked on element #submit
+2024-10-21 10:04:53 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:04:54 - INFO - Clicked on element #add-contact
+2024-10-21 10:04:54 - INFO - Verified on element #firstName
+2024-10-21 10:04:54 - INFO - This element is visible: #firstName
+2024-10-21 10:04:54 - INFO - Filled data into #firstName
+2024-10-21 10:04:54 - INFO - This element is visible: #lastName
+2024-10-21 10:04:55 - INFO - Filled data into #lastName
+2024-10-21 10:04:55 - INFO - This element is visible: #birthdate
+2024-10-21 10:04:55 - INFO - Filled data into #birthdate
+2024-10-21 10:04:55 - INFO - This element is visible: #email
+2024-10-21 10:04:55 - INFO - Filled data into #email
+2024-10-21 10:04:56 - INFO - This element is visible: #phone
+2024-10-21 10:04:56 - INFO - Filled data into #phone
+2024-10-21 10:04:56 - INFO - This element is visible: #street1
+2024-10-21 10:04:56 - INFO - Filled data into #street1
+2024-10-21 10:04:56 - INFO - This element is visible: #street2
+2024-10-21 10:04:56 - INFO - Filled data into #street2
+2024-10-21 10:04:57 - INFO - This element is visible: #city
+2024-10-21 10:04:57 - INFO - Filled data into #city
+2024-10-21 10:04:57 - INFO - This element is visible: #stateProvince
+2024-10-21 10:04:57 - INFO - Filled data into #stateProvince
+2024-10-21 10:04:57 - INFO - This element is visible: #postalCode
+2024-10-21 10:04:58 - INFO - Filled data into #postalCode
+2024-10-21 10:04:58 - INFO - This element is visible: #country
+2024-10-21 10:04:58 - INFO - Filled data into #country
+2024-10-21 10:04:58 - INFO - Clicked on element button[type="submit"]
+2024-10-21 10:04:59 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:05:00 - INFO - Clicked on element td:nth-child(2)
+2024-10-21 10:05:00 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-21 10:05:02 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:07:47 - INFO - Clicked on element #signup
+2024-10-21 10:07:47 - INFO - This element is visible: #firstName
+2024-10-21 10:07:47 - INFO - Filled data into #firstName
+2024-10-21 10:07:48 - INFO - This element is visible: #lastName
+2024-10-21 10:07:48 - INFO - Filled data into #lastName
+2024-10-21 10:07:48 - INFO - This element is visible: #email
+2024-10-21 10:07:48 - INFO - Filled data into #email
+2024-10-21 10:07:48 - INFO - This element is visible: #password
+2024-10-21 10:07:48 - INFO - Filled data into #password
+2024-10-21 10:07:49 - INFO - Clicked on element #submit
+2024-10-21 10:07:50 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:09:23 - INFO - Clicked on element #signup
+2024-10-21 10:09:23 - INFO - This element is visible: #firstName
+2024-10-21 10:09:24 - INFO - Filled data into #firstName
+2024-10-21 10:09:24 - INFO - This element is visible: #lastName
+2024-10-21 10:09:24 - INFO - Filled data into #lastName
+2024-10-21 10:09:24 - INFO - This element is visible: #email
+2024-10-21 10:09:24 - INFO - Filled data into #email
+2024-10-21 10:09:24 - INFO - This element is visible: #password
+2024-10-21 10:09:25 - INFO - Filled data into #password
+2024-10-21 10:09:25 - INFO - Clicked on element #submit
+2024-10-21 10:09:26 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:11:47 - INFO - Clicked on element #signup
+2024-10-21 10:11:47 - INFO - This element is visible: #firstName
+2024-10-21 10:11:47 - INFO - Filled data into #firstName
+2024-10-21 10:11:48 - INFO - This element is visible: #lastName
+2024-10-21 10:11:48 - INFO - Filled data into #lastName
+2024-10-21 10:11:48 - INFO - This element is visible: #email
+2024-10-21 10:11:48 - INFO - Filled data into #email
+2024-10-21 10:11:48 - INFO - This element is visible: #password
+2024-10-21 10:11:48 - INFO - Filled data into #password
+2024-10-21 10:11:49 - INFO - Clicked on element #submit
+2024-10-21 10:11:50 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:15:57 - INFO - Clicked on element #signup
+2024-10-21 10:15:58 - INFO - This element is visible: #firstName
+2024-10-21 10:15:58 - ERROR - Error filling data in #firstName: Element #firstName does not exist.
+2024-10-21 10:19:38 - INFO - Clicked on element #signup
+2024-10-21 10:19:38 - INFO - This element is visible: #firstName
+2024-10-21 10:19:39 - INFO - Filled data into #firstName
+2024-10-21 10:19:39 - INFO - This element is visible: #lastName
+2024-10-21 10:19:39 - INFO - Filled data into #lastName
+2024-10-21 10:19:39 - INFO - This element is visible: #email
+2024-10-21 10:19:39 - INFO - Filled data into #email
+2024-10-21 10:19:40 - INFO - This element is visible: #password
+2024-10-21 10:19:40 - INFO - Filled data into #password
+2024-10-21 10:19:40 - INFO - Clicked on element #submit
+2024-10-21 10:19:41 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:20:07 - INFO - Clicked on element #signup
+2024-10-21 10:20:07 - INFO - This element is visible: #firstName
+2024-10-21 10:20:07 - INFO - Filled data into #firstName
+2024-10-21 10:20:08 - INFO - This element is visible: #lastName
+2024-10-21 10:20:08 - INFO - Filled data into #lastName
+2024-10-21 10:20:08 - INFO - This element is visible: #email
+2024-10-21 10:20:08 - INFO - Filled data into #email
+2024-10-21 10:20:08 - INFO - This element is visible: #password
+2024-10-21 10:20:09 - INFO - Filled data into #password
+2024-10-21 10:20:09 - INFO - Clicked on element #submit
+2024-10-21 10:20:10 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:20:12 - INFO - Clicked on element #signup
+2024-10-21 10:20:12 - INFO - This element is visible: #firstName
+2024-10-21 10:20:13 - INFO - Filled data into #firstName
+2024-10-21 10:20:13 - INFO - This element is visible: #lastName
+2024-10-21 10:20:13 - INFO - Filled data into #lastName
+2024-10-21 10:20:13 - INFO - This element is visible: #email
+2024-10-21 10:20:13 - INFO - Filled data into #email
+2024-10-21 10:20:13 - INFO - This element is visible: #password
+2024-10-21 10:20:14 - INFO - Filled data into #password
+2024-10-21 10:20:14 - INFO - Clicked on element #submit
+2024-10-21 10:20:16 - INFO - Clicked on element #signup
+2024-10-21 10:20:16 - INFO - This element is visible: #firstName
+2024-10-21 10:20:16 - INFO - Filled data into #firstName
+2024-10-21 10:20:17 - INFO - This element is visible: #lastName
+2024-10-21 10:20:17 - INFO - Filled data into #lastName
+2024-10-21 10:20:17 - INFO - This element is visible: #email
+2024-10-21 10:20:17 - INFO - Filled data into #email
+2024-10-21 10:20:17 - INFO - This element is visible: #password
+2024-10-21 10:20:18 - INFO - Filled data into #password
+2024-10-21 10:20:18 - INFO - Clicked on element #submit
+2024-10-21 10:20:20 - INFO - Clicked on element #signup
+2024-10-21 10:20:20 - INFO - This element is visible: #firstName
+2024-10-21 10:20:20 - INFO - Filled data into #firstName
+2024-10-21 10:20:21 - INFO - This element is visible: #lastName
+2024-10-21 10:20:21 - INFO - Filled data into #lastName
+2024-10-21 10:20:21 - INFO - This element is visible: #email
+2024-10-21 10:20:21 - INFO - Filled data into #email
+2024-10-21 10:20:21 - INFO - This element is visible: #password
+2024-10-21 10:20:22 - INFO - Filled data into #password
+2024-10-21 10:20:22 - INFO - Clicked on element #submit
+2024-10-21 10:22:22 - INFO - Clicked on element #signup
+2024-10-21 10:22:22 - INFO - This element is visible: #firstName
+2024-10-21 10:22:22 - INFO - Filled data into #firstName
+2024-10-21 10:22:23 - INFO - This element is visible: #lastName
+2024-10-21 10:22:23 - INFO - Filled data into #lastName
+2024-10-21 10:22:23 - INFO - This element is visible: #email
+2024-10-21 10:22:23 - INFO - Filled data into #email
+2024-10-21 10:22:23 - INFO - This element is visible: #password
+2024-10-21 10:22:23 - INFO - Filled data into #password
+2024-10-21 10:22:24 - INFO - Clicked on element #submit
+2024-10-21 10:22:25 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:22:27 - INFO - Clicked on element #signup
+2024-10-21 10:22:27 - INFO - This element is visible: #firstName
+2024-10-21 10:22:27 - INFO - Filled data into #firstName
+2024-10-21 10:22:28 - INFO - This element is visible: #lastName
+2024-10-21 10:22:28 - INFO - Filled data into #lastName
+2024-10-21 10:22:28 - INFO - This element is visible: #email
+2024-10-21 10:22:28 - INFO - Filled data into #email
+2024-10-21 10:22:28 - INFO - This element is visible: #password
+2024-10-21 10:22:28 - INFO - Filled data into #password
+2024-10-21 10:22:29 - INFO - Clicked on element #submit
+2024-10-21 10:22:31 - INFO - Clicked on element #signup
+2024-10-21 10:22:31 - INFO - This element is visible: #firstName
+2024-10-21 10:22:31 - INFO - Filled data into #firstName
+2024-10-21 10:22:32 - INFO - This element is visible: #lastName
+2024-10-21 10:22:32 - INFO - Filled data into #lastName
+2024-10-21 10:22:32 - INFO - This element is visible: #email
+2024-10-21 10:22:32 - INFO - Filled data into #email
+2024-10-21 10:22:32 - INFO - This element is visible: #password
+2024-10-21 10:22:32 - INFO - Filled data into #password
+2024-10-21 10:22:33 - INFO - Clicked on element #submit
+2024-10-21 10:22:35 - INFO - Clicked on element #signup
+2024-10-21 10:22:35 - INFO - This element is visible: #firstName
+2024-10-21 10:22:35 - INFO - Filled data into #firstName
+2024-10-21 10:22:36 - INFO - This element is visible: #lastName
+2024-10-21 10:22:36 - INFO - Filled data into #lastName
+2024-10-21 10:22:36 - INFO - This element is visible: #email
+2024-10-21 10:22:36 - INFO - Filled data into #email
+2024-10-21 10:22:36 - INFO - This element is visible: #password
+2024-10-21 10:22:36 - INFO - Filled data into #password
+2024-10-21 10:22:37 - INFO - Clicked on element #submit
+2024-10-21 10:25:16 - INFO - Clicked on element #signup
+2024-10-21 10:25:16 - INFO - This element is visible: #firstName
+2024-10-21 10:25:17 - INFO - Filled data into #firstName
+2024-10-21 10:25:17 - INFO - This element is visible: #lastName
+2024-10-21 10:25:17 - INFO - Filled data into #lastName
+2024-10-21 10:25:17 - INFO - This element is visible: #email
+2024-10-21 10:25:17 - INFO - Filled data into #email
+2024-10-21 10:25:18 - INFO - This element is visible: #password
+2024-10-21 10:25:18 - INFO - Filled data into #password
+2024-10-21 10:25:18 - INFO - Clicked on element #submit
+2024-10-21 10:25:19 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:25:46 - INFO - Clicked on element #signup
+2024-10-21 10:25:46 - INFO - This element is visible: #firstName
+2024-10-21 10:25:46 - INFO - Filled data into #firstName
+2024-10-21 10:25:47 - INFO - This element is visible: #lastName
+2024-10-21 10:25:47 - INFO - Filled data into #lastName
+2024-10-21 10:25:47 - INFO - This element is visible: #email
+2024-10-21 10:25:47 - INFO - Filled data into #email
+2024-10-21 10:25:47 - INFO - This element is visible: #password
+2024-10-21 10:25:48 - INFO - Filled data into #password
+2024-10-21 10:25:48 - INFO - Clicked on element #submit
+2024-10-21 10:25:49 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:26:56 - INFO - Clicked on element #signup
+2024-10-21 10:26:56 - INFO - This element is visible: #firstName
+2024-10-21 10:26:56 - INFO - Filled data into #firstName
+2024-10-21 10:26:57 - INFO - This element is visible: #lastName
+2024-10-21 10:26:57 - INFO - Filled data into #lastName
+2024-10-21 10:26:57 - INFO - This element is visible: #email
+2024-10-21 10:26:57 - INFO - Filled data into #email
+2024-10-21 10:26:57 - INFO - This element is visible: #password
+2024-10-21 10:26:57 - INFO - Filled data into #password
+2024-10-21 10:26:58 - INFO - Clicked on element #submit
+2024-10-21 10:26:59 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:31:53 - INFO - Clicked on element #signup
+2024-10-21 10:31:53 - INFO - This element is visible: #firstName
+2024-10-21 10:31:53 - INFO - Filled data into #firstName
+2024-10-21 10:31:54 - INFO - This element is visible: #lastName
+2024-10-21 10:31:54 - INFO - Filled data into #lastName
+2024-10-21 10:31:54 - INFO - This element is visible: #email
+2024-10-21 10:31:54 - INFO - Filled data into #email
+2024-10-21 10:31:54 - INFO - This element is visible: #password
+2024-10-21 10:31:54 - INFO - Filled data into #password
+2024-10-21 10:31:54 - INFO - Clicked on element #submit
+2024-10-21 10:31:56 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:32:21 - INFO - Clicked on element #signup
+2024-10-21 10:32:21 - INFO - This element is visible: #firstName
+2024-10-21 10:32:21 - INFO - Filled data into #firstName
+2024-10-21 10:32:21 - INFO - This element is visible: #lastName
+2024-10-21 10:32:21 - INFO - Filled data into #lastName
+2024-10-21 10:32:21 - INFO - This element is visible: #email
+2024-10-21 10:32:22 - INFO - Filled data into #email
+2024-10-21 10:32:22 - INFO - This element is visible: #password
+2024-10-21 10:32:22 - INFO - Filled data into #password
+2024-10-21 10:32:22 - INFO - Clicked on element #submit
+2024-10-21 10:32:24 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 10:32:50 - INFO - Clicked on element #signup
+2024-10-21 10:32:50 - INFO - This element is visible: #firstName
+2024-10-21 10:32:50 - INFO - Filled data into #firstName
+2024-10-21 10:32:50 - INFO - This element is visible: #lastName
+2024-10-21 10:32:50 - INFO - Filled data into #lastName
+2024-10-21 10:32:50 - INFO - This element is visible: #email
+2024-10-21 10:32:51 - INFO - Filled data into #email
+2024-10-21 10:32:51 - INFO - This element is visible: #password
+2024-10-21 10:32:51 - INFO - Filled data into #password
+2024-10-21 10:32:51 - INFO - Clicked on element #submit
+2024-10-21 10:32:52 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 11:07:09 - INFO - Clicked on element #signup
+2024-10-21 11:07:10 - INFO - This element is visible: #firstName
+2024-10-21 11:07:10 - INFO - Filled data into #firstName
+2024-10-21 11:07:10 - INFO - This element is visible: #lastName
+2024-10-21 11:07:10 - INFO - Filled data into #lastName
+2024-10-21 11:07:10 - INFO - This element is visible: #email
+2024-10-21 11:07:10 - INFO - Filled data into #email
+2024-10-21 11:07:10 - INFO - This element is visible: #password
+2024-10-21 11:07:10 - INFO - Filled data into #password
+2024-10-21 11:07:11 - INFO - Clicked on element #submit
+2024-10-21 11:07:12 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 11:07:14 - INFO - Clicked on element #signup
+2024-10-21 11:07:14 - INFO - This element is visible: #firstName
+2024-10-21 11:07:14 - INFO - Filled data into #firstName
+2024-10-21 11:07:14 - INFO - This element is visible: #lastName
+2024-10-21 11:07:14 - INFO - Filled data into #lastName
+2024-10-21 11:07:14 - INFO - This element is visible: #email
+2024-10-21 11:07:15 - INFO - Filled data into #email
+2024-10-21 11:07:15 - INFO - This element is visible: #password
+2024-10-21 11:07:15 - INFO - Filled data into #password
+2024-10-21 11:07:15 - INFO - Clicked on element #submit
+2024-10-21 11:07:17 - INFO - Clicked on element #signup
+2024-10-21 11:07:17 - INFO - This element is visible: #firstName
+2024-10-21 11:07:17 - INFO - Filled data into #firstName
+2024-10-21 11:07:17 - INFO - This element is visible: #lastName
+2024-10-21 11:07:18 - INFO - Filled data into #lastName
+2024-10-21 11:07:18 - INFO - This element is visible: #email
+2024-10-21 11:07:18 - INFO - Filled data into #email
+2024-10-21 11:07:18 - INFO - This element is visible: #password
+2024-10-21 11:07:18 - INFO - Filled data into #password
+2024-10-21 11:07:18 - INFO - Clicked on element #submit
+2024-10-21 11:07:20 - INFO - Clicked on element #signup
+2024-10-21 11:07:21 - INFO - This element is visible: #firstName
+2024-10-21 11:07:21 - INFO - Filled data into #firstName
+2024-10-21 11:07:21 - INFO - This element is visible: #lastName
+2024-10-21 11:07:21 - INFO - Filled data into #lastName
+2024-10-21 11:07:21 - INFO - This element is visible: #email
+2024-10-21 11:07:21 - INFO - Filled data into #email
+2024-10-21 11:07:21 - INFO - This element is visible: #password
+2024-10-21 11:07:21 - INFO - Filled data into #password
+2024-10-21 11:07:21 - INFO - Clicked on element #submit
+2024-10-21 11:25:51 - INFO - Clicked on element #signup
+2024-10-21 11:25:52 - INFO - This element is visible: #firstName
+2024-10-21 11:25:52 - INFO - Filled data into #firstName
+2024-10-21 11:25:52 - INFO - This element is visible: #lastName
+2024-10-21 11:25:52 - INFO - Filled data into #lastName
+2024-10-21 11:25:52 - INFO - This element is visible: #email
+2024-10-21 11:25:52 - INFO - Filled data into #email
+2024-10-21 11:25:52 - INFO - This element is visible: #password
+2024-10-21 11:25:52 - INFO - Filled data into #password
+2024-10-21 11:25:53 - INFO - Clicked on element #submit
+2024-10-21 11:25:54 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-21 11:25:56 - INFO - Clicked on element #signup
+2024-10-21 11:25:56 - INFO - This element is visible: #firstName
+2024-10-21 11:25:56 - INFO - Filled data into #firstName
+2024-10-21 11:25:57 - INFO - This element is visible: #lastName
+2024-10-21 11:25:57 - INFO - Filled data into #lastName
+2024-10-21 11:25:57 - INFO - This element is visible: #email
+2024-10-21 11:25:57 - INFO - Filled data into #email
+2024-10-21 11:25:57 - INFO - This element is visible: #password
+2024-10-21 11:25:57 - INFO - Filled data into #password
+2024-10-21 11:25:57 - INFO - Clicked on element #submit
+2024-10-21 11:26:00 - INFO - Clicked on element #signup
+2024-10-21 11:26:00 - INFO - This element is visible: #firstName
+2024-10-21 11:26:00 - INFO - Filled data into #firstName
+2024-10-21 11:26:00 - INFO - This element is visible: #lastName
+2024-10-21 11:26:00 - INFO - Filled data into #lastName
+2024-10-21 11:26:00 - INFO - This element is visible: #email
+2024-10-21 11:26:00 - INFO - Filled data into #email
+2024-10-21 11:26:01 - INFO - This element is visible: #password
+2024-10-21 11:26:01 - INFO - Filled data into #password
+2024-10-21 11:26:01 - INFO - Clicked on element #submit
+2024-10-21 11:26:03 - INFO - Clicked on element #signup
+2024-10-21 11:26:03 - INFO - This element is visible: #firstName
+2024-10-21 11:26:04 - INFO - Filled data into #firstName
+2024-10-21 11:26:04 - INFO - This element is visible: #lastName
+2024-10-21 11:26:04 - INFO - Filled data into #lastName
+2024-10-21 11:26:04 - INFO - This element is visible: #email
+2024-10-21 11:26:04 - INFO - Filled data into #email
+2024-10-21 11:26:04 - INFO - This element is visible: #password
+2024-10-21 11:26:04 - INFO - Filled data into #password
+2024-10-21 11:26:04 - INFO - Clicked on element #submit

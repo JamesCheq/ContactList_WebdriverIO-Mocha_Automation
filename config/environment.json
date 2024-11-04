@@ -1,0 +1,12 @@
+{
+    "dev": {
+      "baseURL": "https://dev-tester-contact-list.herokuapp.com"
+    },
+    "staging": {
+      "baseURL": "https://thinking-tester-contact-list.herokuapp.com"
+    },
+    "prod": {
+      "baseURL": "https://prod-tester-contact-list.herokuapp.com"
+    }
+}
+  

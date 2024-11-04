@@ -1,0 +1,167 @@
+{
+  "uid" : "5370da6e096813b5",
+  "name" : "Successful Account Creation @apiaccountcreation",
+  "historyId" : "9faaec227ae5ddc62dfba3943e008788",
+  "time" : {
+    "start" : 1729645161571,
+    "stop" : 1729645179843,
+    "duration" : 18272
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "enter Username",
+      "time" : {
+        "start" : 1729645166359,
+        "stop" : 1729645166769,
+        "duration" : 410
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "73bbce291444cb1c",
+        "name" : "enter Username",
+        "source" : "73bbce291444cb1c.png",
+        "type" : "image/png",
+        "size" : 39620
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Password",
+      "time" : {
+        "start" : 1729645167467,
+        "stop" : 1729645167940,
+        "duration" : 473
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e3a945ce16943f75",
+        "name" : "enter Password",
+        "source" : "e3a945ce16943f75.png",
+        "type" : "image/png",
+        "size" : 39559
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click Login Button",
+      "time" : {
+        "start" : 1729645168201,
+        "stop" : 1729645168609,
+        "duration" : 408
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "38943dc53d97ebbc",
+        "name" : "click Login Button",
+        "source" : "38943dc53d97ebbc.png",
+        "type" : "image/png",
+        "size" : 38841
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "validate Contact List",
+      "time" : {
+        "start" : 1729645170814,
+        "stop" : 1729645173774,
+        "duration" : 2960
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e9158ac67f14bf37",
+        "name" : "validate Contact List",
+        "source" : "e9158ac67f14bf37.png",
+        "type" : "image/png",
+        "size" : 32469
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "validate Contact List",
+      "time" : {
+        "start" : 1729645178528,
+        "stop" : 1729645179841,
+        "duration" : 1313
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "83ad795676b558ea",
+        "name" : "validate Contact List",
+        "source" : "83ad795676b558ea.png",
+        "type" : "image/png",
+        "size" : 32469
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "C:.Users.Jason Solis.Documents.Automation.Selenium Javascript WebdriverIO.Contact_List_Mocha_Automation.test.api.Account_Creation_via_API.spec.js"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Account Creation via API @APICreation @ALLAPI"
+  }, {
+    "name" : "feature",
+    "value" : "Account Creation via API @APICreation @ALLAPI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-130.0.6723.59"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5370da6e096813b5.json",
+  "parameterValues" : [ "chrome-130.0.6723.59" ]
+}

@@ -1,0 +1,95 @@
+{
+  "errorData": {
+    "errors": {
+      "firstName": {
+        "name": "ValidatorError",
+        "message": "Path `firstName` is required.",
+        "properties": {
+          "message": "Path `firstName` is required.",
+          "type": "required",
+          "path": "firstName",
+          "value": ""
+        },
+        "kind": "required",
+        "path": "firstName",
+        "value": ""
+      },
+      "lastName": {
+        "name": "ValidatorError",
+        "message": "Path `lastName` is required.",
+        "properties": {
+          "message": "Path `lastName` is required.",
+          "type": "required",
+          "path": "lastName",
+          "value": ""
+        },
+        "kind": "required",
+        "path": "lastName",
+        "value": ""
+      },
+      "email": {
+        "name": "ValidatorError",
+        "message": "Email is invalid",
+        "properties": {
+          "message": "Email is invalid",
+          "type": "user defined",
+          "path": "email",
+          "value": "",
+          "reason": {}
+        },
+        "kind": "user defined",
+        "path": "email",
+        "value": "",
+        "reason": {}
+      },
+      "birthdate": {
+        "name": "ValidatorError",
+        "message": "Birthdate is invalid",
+        "properties": {
+          "message": "Birthdate is invalid",
+          "type": "user defined",
+          "path": "birthdate",
+          "value": "",
+          "reason": {}
+        },
+        "kind": "user defined",
+        "path": "birthdate",
+        "value": "",
+        "reason": {}
+      },
+      "phone": {
+        "name": "ValidatorError",
+        "message": "Phone number is invalid",
+        "properties": {
+          "message": "Phone number is invalid",
+          "type": "user defined",
+          "path": "phone",
+          "value": "",
+          "reason": {}
+        },
+        "kind": "user defined",
+        "path": "phone",
+        "value": "",
+        "reason": {}
+      },
+      "postalCode": {
+        "name": "ValidatorError",
+        "message": "Postal code is invalid",
+        "properties": {
+          "message": "Postal code is invalid",
+          "type": "user defined",
+          "path": "postalCode",
+          "value": "",
+          "reason": {}
+        },
+        "kind": "user defined",
+        "path": "postalCode",
+        "value": "",
+        "reason": {}
+      }
+    },
+    "_message": "Contact validation failed",
+    "message": "Contact validation failed: firstName: Path `firstName` is required., lastName: Path `lastName` is required., email: Email is invalid, birthdate: Birthdate is invalid, phone: Phone number is invalid, postalCode: Postal code is invalid"
+  },
+  "status": 400
+}

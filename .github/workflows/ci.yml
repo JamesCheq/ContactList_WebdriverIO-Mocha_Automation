@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch: # Manually triggered workflow
+    inputs:
+      example_input:
+        description: 'An example input'
+        required: false
+        default: 'default_value'
+
+jobs:
+  test:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Set environment variable
+        run: echo "NODE_ENV=staging" >> $env:GITHUB_ENV
+
+      - name: Check NODE_ENV
+        run: node -e "console.log('NODE_ENV:', process.env.NODE_ENV)"
+
+      - name: Clear Old Allure Results
+        run: |
+          if (Test-Path -Path ./reports/allure-results) {
+            Remove-Item -Path ./reports/allure-results -Recurse -Force
+          }  # PowerShell command to clear old results from reports folder on Windows
+
+      - name: Run WebdriverIO Tests
+        run: |
+          npx wdio wdio.conf.js --mochaOpts.grep=@uiaccountcreation --browser chrome
+
+      - name: Store test results
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-results
+          path: ./reports/allure-results

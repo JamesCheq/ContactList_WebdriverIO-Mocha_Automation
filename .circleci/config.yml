@@ -1,0 +1,53 @@
+version: 2.1
+
+jobs:
+  test:
+    docker:
+      - image: cimg/node:20.5.0-browsers  # Use a Node.js image with browser
+    working_directory: ~/repo
+
+    steps:
+      - checkout  # Step 1: Checkout the code
+
+      - restore_cache:
+          keys:
+            - v1-deps-{{ checksum "package.json" }}  # Restore cached dependencies
+
+      - run:
+          name: Install dependencies
+          command: npm install  # Step 2: Install Node.js dependencies
+
+      - run:
+          name: Clear Old Allure Results
+          command: rm -rf ./reports/allure-results  # Clear old results from reports folder
+
+
+      - save_cache:  # Step 3: Cache Node.js dependencies
+          paths:
+            - node_modules
+          key: v1-deps-{{ checksum "package.json" }}
+
+      - run:
+          name: Run WebdriverIO Tests
+          command: |
+            export NODE_ENV=staging  # Set NODE_ENV for Linux
+            npx wdio wdio.conf.js --mochaOpts.grep=@uiaccountcreation --browser chrome  # Step 4: Run the WebdriverIO test suite
+
+      - run:
+          name: Create ZIP Archive of Allure Results
+          command: |
+            # Create a ZIP archive of allure-results
+            cd ./reports
+            zip -r allure-results.zip allure-results  # Create a ZIP file of only allure-results
+
+      - store_artifacts:  # Step 5: Store the ZIP file as an artifact
+          path: ./reports/allure-results.zip  # Store the zipped allure-results
+          destination: allure-results
+
+
+
+workflows:
+  version: 2
+  test:
+    jobs:
+      - test

@@ -1,0 +1,27 @@
+{
+  "name": "contact_list_mocha_automation",
+  "type": "commonjs",
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "@wdio/allure-reporter": "^9.0.8",
+    "@wdio/cli": "^9.2.1",
+    "@wdio/local-runner": "^9.0.9",
+    "@wdio/mocha-framework": "^9.0.8",
+    "@wdio/visual-service": "^6.0.0",
+    "allure-commandline": "^2.30.0",
+    "axios": "^1.7.7",
+    "chai": "^5.1.1",
+    "chromedriver": "^129.0.1",
+    "mocha": "^10.7.3",
+    "mocha-tags": "^1.0.1",
+    "webdriverio": "^9.1.2"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "date-fns": "^4.1.0",
+    "winston": "^3.15.0"
+  }
+}

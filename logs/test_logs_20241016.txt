@@ -1,0 +1,1036 @@
+2024-10-16 09:06:21 - INFO - Filled data into #email
+2024-10-16 09:06:22 - INFO - Filled data into #password
+2024-10-16 09:06:22 - INFO - Clicked on element #submit
+2024-10-16 09:07:03 - INFO - Filled data into #email
+2024-10-16 09:07:04 - INFO - Filled data into #password
+2024-10-16 09:07:04 - INFO - Clicked on element #submit
+2024-10-16 09:08:08 - INFO - Filled data into #email
+2024-10-16 09:08:08 - INFO - Filled data into #password
+2024-10-16 09:08:09 - INFO - Clicked on element #submit
+2024-10-16 09:08:53 - INFO - Filled data into #email
+2024-10-16 09:08:53 - INFO - Filled data into #password
+2024-10-16 09:08:53 - INFO - Clicked on element #submit
+2024-10-16 09:08:57 - INFO - Filled data into #email
+2024-10-16 09:08:57 - INFO - Filled data into #password
+2024-10-16 09:08:57 - INFO - Clicked on element #submit
+2024-10-16 09:15:55 - INFO - Filled data into #email
+2024-10-16 09:15:55 - INFO - Filled data into #password
+2024-10-16 09:15:56 - INFO - Clicked on element #submit
+2024-10-16 09:16:01 - INFO - Filled data into #email
+2024-10-16 09:16:01 - INFO - Filled data into #password
+2024-10-16 09:16:01 - INFO - Clicked on element #submit
+2024-10-16 09:17:37 - INFO - Filled data into #email
+2024-10-16 09:17:38 - INFO - Filled data into #password
+2024-10-16 09:17:38 - INFO - Clicked on element #submit
+2024-10-16 09:17:42 - INFO - Filled data into #email
+2024-10-16 09:17:42 - INFO - Filled data into #password
+2024-10-16 09:17:42 - INFO - Clicked on element #submit
+2024-10-16 09:20:53 - INFO - Filled data into #email
+2024-10-16 09:20:54 - INFO - Filled data into #password
+2024-10-16 09:20:54 - INFO - Clicked on element #submit
+2024-10-16 09:20:59 - INFO - Filled data into #email
+2024-10-16 09:20:59 - INFO - Filled data into #password
+2024-10-16 09:20:59 - INFO - Clicked on element #submit
+2024-10-16 09:26:05 - INFO - Filled data into #email
+2024-10-16 09:26:05 - INFO - Filled data into #password
+2024-10-16 09:26:05 - INFO - Clicked on element #submit
+2024-10-16 09:26:07 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:26:07 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:26:10 - INFO - Filled data into #email
+2024-10-16 09:26:11 - INFO - Filled data into #password
+2024-10-16 09:26:11 - INFO - Clicked on element #submit
+2024-10-16 09:26:12 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:26:12 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:28:23 - INFO - Filled data into #email
+2024-10-16 09:28:23 - INFO - Filled data into #password
+2024-10-16 09:28:23 - INFO - Clicked on element #submit
+2024-10-16 09:28:24 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:28:24 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:28:28 - INFO - Filled data into #email
+2024-10-16 09:28:28 - INFO - Filled data into #password
+2024-10-16 09:28:28 - INFO - Clicked on element #submit
+2024-10-16 09:28:29 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:28:29 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:30:25 - INFO - Filled data into #email
+2024-10-16 09:30:25 - INFO - Filled data into #password
+2024-10-16 09:30:26 - INFO - Clicked on element #submit
+2024-10-16 09:30:27 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:30:27 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:30:30 - INFO - Filled data into #email
+2024-10-16 09:30:31 - INFO - Filled data into #password
+2024-10-16 09:30:31 - INFO - Clicked on element #submit
+2024-10-16 09:30:32 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:30:32 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:54:28 - INFO - Clicked on element #signup
+2024-10-16 09:54:28 - INFO - Filled data into #firstName
+2024-10-16 09:54:29 - INFO - Filled data into #lastName
+2024-10-16 09:54:29 - INFO - Filled data into #email
+2024-10-16 09:54:29 - INFO - Filled data into #password
+2024-10-16 09:54:29 - INFO - Clicked on element #submit
+2024-10-16 09:54:30 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 09:59:55 - INFO - Clicked on element #signup
+2024-10-16 09:59:56 - INFO - Filled data into #firstName
+2024-10-16 09:59:56 - INFO - Filled data into #lastName
+2024-10-16 09:59:56 - INFO - Filled data into #email
+2024-10-16 09:59:56 - INFO - Filled data into #password
+2024-10-16 09:59:57 - INFO - Clicked on element #submit
+2024-10-16 09:59:58 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:04:05 - INFO - Clicked on element #signup
+2024-10-16 10:04:05 - INFO - Filled data into #firstName
+2024-10-16 10:04:05 - INFO - Filled data into #lastName
+2024-10-16 10:04:06 - INFO - Filled data into #email
+2024-10-16 10:04:06 - INFO - Filled data into #password
+2024-10-16 10:04:06 - INFO - Clicked on element #submit
+2024-10-16 10:04:07 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:07:13 - INFO - Clicked on element #signup
+2024-10-16 10:07:14 - INFO - Filled data into #firstName
+2024-10-16 10:07:14 - INFO - Filled data into #lastName
+2024-10-16 10:07:14 - INFO - Filled data into #email
+2024-10-16 10:07:14 - INFO - Filled data into #password
+2024-10-16 10:07:15 - INFO - Clicked on element #submit
+2024-10-16 10:07:16 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:08:54 - INFO - Clicked on element #signup
+2024-10-16 10:08:54 - INFO - Filled data into #firstName
+2024-10-16 10:08:54 - INFO - Filled data into #lastName
+2024-10-16 10:08:55 - INFO - Filled data into #email
+2024-10-16 10:08:55 - INFO - Filled data into #password
+2024-10-16 10:08:55 - INFO - Clicked on element #submit
+2024-10-16 10:08:56 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:12:05 - INFO - Clicked on element #signup
+2024-10-16 10:12:05 - INFO - Filled data into #firstName
+2024-10-16 10:12:05 - INFO - Filled data into #lastName
+2024-10-16 10:12:05 - INFO - Filled data into #email
+2024-10-16 10:12:06 - INFO - Filled data into #password
+2024-10-16 10:12:06 - INFO - Clicked on element #submit
+2024-10-16 10:12:07 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:14:44 - INFO - Clicked on element #signup
+2024-10-16 10:14:45 - INFO - Filled data into #firstName
+2024-10-16 10:14:45 - INFO - Filled data into #lastName
+2024-10-16 10:14:45 - INFO - Filled data into #email
+2024-10-16 10:14:46 - INFO - Filled data into #password
+2024-10-16 10:14:46 - INFO - Clicked on element #submit
+2024-10-16 10:14:48 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:18:01 - INFO - Clicked on element #signup
+2024-10-16 10:18:01 - ERROR - Error filling data in #firstName: this.isElementExist is not a function
+2024-10-16 10:20:20 - INFO - Clicked on element #signup
+2024-10-16 10:20:20 - INFO - Filled data into #firstName
+2024-10-16 10:20:20 - INFO - Filled data into #lastName
+2024-10-16 10:20:21 - INFO - Filled data into #email
+2024-10-16 10:20:21 - INFO - Filled data into #password
+2024-10-16 10:20:21 - INFO - Clicked on element #submit
+2024-10-16 10:20:23 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:23:40 - INFO - Clicked on element #signup
+2024-10-16 10:23:41 - INFO - Filled data into #firstName
+2024-10-16 10:23:41 - INFO - Filled data into #lastName
+2024-10-16 10:23:41 - INFO - Filled data into #email
+2024-10-16 10:23:41 - INFO - Filled data into #password
+2024-10-16 10:23:41 - INFO - Clicked on element #submit
+2024-10-16 10:23:44 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:24:17 - INFO - Clicked on element #signup
+2024-10-16 10:24:18 - INFO - Filled data into #firstName
+2024-10-16 10:24:18 - INFO - Filled data into #lastName
+2024-10-16 10:24:18 - INFO - Filled data into #email
+2024-10-16 10:24:18 - INFO - Filled data into #password
+2024-10-16 10:24:19 - INFO - Clicked on element #submit
+2024-10-16 10:24:21 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:25:26 - INFO - Clicked on element #signup
+2024-10-16 10:25:26 - INFO - Filled data into #firstName
+2024-10-16 10:25:26 - INFO - Filled data into #lastName
+2024-10-16 10:25:27 - INFO - Filled data into #email
+2024-10-16 10:25:27 - INFO - Filled data into #password
+2024-10-16 10:25:27 - INFO - Clicked on element #submit
+2024-10-16 10:25:29 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:38:38 - INFO - Clicked on element #signup
+2024-10-16 10:38:38 - INFO - Filled data into #firstName
+2024-10-16 10:38:38 - INFO - Filled data into #lastName
+2024-10-16 10:38:39 - INFO - Filled data into #email
+2024-10-16 10:38:39 - INFO - Filled data into #password
+2024-10-16 10:38:39 - INFO - Clicked on element #submit
+2024-10-16 10:38:41 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:39:46 - INFO - Clicked on element #signup
+2024-10-16 10:39:47 - INFO - Filled data into #firstName
+2024-10-16 10:39:47 - INFO - Filled data into #lastName
+2024-10-16 10:39:47 - INFO - Filled data into #email
+2024-10-16 10:39:48 - INFO - Filled data into #password
+2024-10-16 10:39:48 - INFO - Clicked on element #submit
+2024-10-16 10:39:52 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:44:03 - INFO - Filled data into #email
+2024-10-16 10:44:03 - INFO - Filled data into #password
+2024-10-16 10:44:03 - INFO - Clicked on element #submit
+2024-10-16 10:44:08 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:44:11 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:44:15 - INFO - Filled data into #email
+2024-10-16 10:44:15 - INFO - Filled data into #password
+2024-10-16 10:44:15 - INFO - Clicked on element #submit
+2024-10-16 10:44:20 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:44:23 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:45:27 - INFO - Filled data into #email
+2024-10-16 10:45:28 - INFO - Filled data into #password
+2024-10-16 10:45:28 - INFO - Clicked on element #submit
+2024-10-16 10:45:32 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:45:35 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:46:18 - INFO - Clicked on element #signup
+2024-10-16 10:46:19 - INFO - Filled data into #firstName
+2024-10-16 10:46:19 - INFO - Filled data into #lastName
+2024-10-16 10:46:19 - INFO - Filled data into #email
+2024-10-16 10:46:20 - INFO - Filled data into #password
+2024-10-16 10:46:20 - INFO - Clicked on element #submit
+2024-10-16 10:46:24 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:48:17 - INFO - Clicked on element #signup
+2024-10-16 10:48:17 - INFO - Filled data into #firstName
+2024-10-16 10:48:17 - INFO - Filled data into #lastName
+2024-10-16 10:48:18 - INFO - Filled data into #email
+2024-10-16 10:48:18 - INFO - Filled data into #password
+2024-10-16 10:48:18 - INFO - Clicked on element #submit
+2024-10-16 10:48:22 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:50:00 - INFO - Clicked on element #signup
+2024-10-16 10:50:00 - INFO - Filled data into #firstName
+2024-10-16 10:50:00 - INFO - Filled data into #lastName
+2024-10-16 10:50:00 - INFO - Filled data into #email
+2024-10-16 10:50:01 - INFO - Filled data into #password
+2024-10-16 10:50:01 - INFO - Clicked on element #submit
+2024-10-16 10:50:05 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:52:18 - INFO - Clicked on element #signup
+2024-10-16 10:52:19 - INFO - Filled data into #firstName
+2024-10-16 10:52:19 - INFO - Filled data into #lastName
+2024-10-16 10:52:19 - INFO - Filled data into #email
+2024-10-16 10:52:19 - INFO - Filled data into #password
+2024-10-16 10:52:20 - INFO - Clicked on element #submit
+2024-10-16 10:52:24 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:55:33 - INFO - Clicked on element #signup
+2024-10-16 10:55:34 - INFO - Filled data into #firstName
+2024-10-16 10:55:34 - INFO - Filled data into #lastName
+2024-10-16 10:55:34 - INFO - Filled data into #email
+2024-10-16 10:55:34 - INFO - Filled data into #password
+2024-10-16 10:55:34 - INFO - Clicked on element #submit
+2024-10-16 10:55:42 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:56:41 - INFO - Clicked on element #signup
+2024-10-16 10:56:42 - INFO - Filled data into #firstName
+2024-10-16 10:56:42 - INFO - Filled data into #lastName
+2024-10-16 10:56:42 - INFO - Filled data into #email
+2024-10-16 10:56:42 - INFO - Filled data into #password
+2024-10-16 10:56:43 - INFO - Clicked on element #submit
+2024-10-16 10:56:50 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:56:50 - INFO - Clicked on element #add-contact
+2024-10-16 10:59:02 - INFO - Clicked on element #signup
+2024-10-16 10:59:02 - INFO - Filled data into #firstName
+2024-10-16 10:59:02 - INFO - Filled data into #lastName
+2024-10-16 10:59:02 - INFO - Filled data into #email
+2024-10-16 10:59:02 - INFO - Filled data into #password
+2024-10-16 10:59:02 - INFO - Clicked on element #submit
+2024-10-16 10:59:10 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 10:59:11 - INFO - Clicked on element #add-contact
+2024-10-16 10:59:53 - INFO - Clicked on element #signup
+2024-10-16 10:59:53 - INFO - Filled data into #firstName
+2024-10-16 10:59:53 - INFO - Filled data into #lastName
+2024-10-16 10:59:54 - INFO - Filled data into #email
+2024-10-16 10:59:54 - INFO - Filled data into #password
+2024-10-16 10:59:54 - INFO - Clicked on element #submit
+2024-10-16 11:00:01 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:00:02 - INFO - Clicked on element #add-contact
+2024-10-16 11:00:53 - INFO - Clicked on element #signup
+2024-10-16 11:00:53 - INFO - Filled data into #firstName
+2024-10-16 11:00:53 - INFO - Filled data into #lastName
+2024-10-16 11:00:53 - INFO - Filled data into #email
+2024-10-16 11:00:54 - INFO - Filled data into #password
+2024-10-16 11:00:54 - INFO - Clicked on element #submit
+2024-10-16 11:01:01 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:01:54 - INFO - Clicked on element #signup
+2024-10-16 11:01:54 - INFO - Filled data into #firstName
+2024-10-16 11:01:54 - INFO - Filled data into #lastName
+2024-10-16 11:01:54 - INFO - Filled data into #email
+2024-10-16 11:01:55 - INFO - Filled data into #password
+2024-10-16 11:01:55 - INFO - Clicked on element #submit
+2024-10-16 11:01:57 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:04:19 - INFO - Clicked on element #signup
+2024-10-16 11:04:21 - INFO - Filled data into #firstName
+2024-10-16 11:04:21 - INFO - Filled data into #lastName
+2024-10-16 11:04:21 - INFO - Filled data into #email
+2024-10-16 11:04:21 - INFO - Filled data into #password
+2024-10-16 11:04:22 - INFO - Clicked on element #submit
+2024-10-16 11:04:23 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:06:45 - INFO - Clicked on element #signup
+2024-10-16 11:06:46 - INFO - Filled data into #firstName
+2024-10-16 11:06:46 - INFO - Filled data into #lastName
+2024-10-16 11:06:46 - INFO - Filled data into #email
+2024-10-16 11:06:46 - INFO - Filled data into #password
+2024-10-16 11:06:47 - INFO - Clicked on element #submit
+2024-10-16 11:06:48 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:07:47 - INFO - Clicked on element #signup
+2024-10-16 11:07:47 - INFO - Filled data into #firstName
+2024-10-16 11:07:47 - INFO - Filled data into #lastName
+2024-10-16 11:07:47 - INFO - Filled data into #email
+2024-10-16 11:07:48 - INFO - Filled data into #password
+2024-10-16 11:07:48 - INFO - Clicked on element #submit
+2024-10-16 11:07:49 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:09:49 - INFO - Clicked on element #signup
+2024-10-16 11:09:49 - INFO - Filled data into #firstName
+2024-10-16 11:09:49 - INFO - Filled data into #lastName
+2024-10-16 11:09:49 - INFO - Filled data into #email
+2024-10-16 11:09:49 - INFO - Filled data into #password
+2024-10-16 11:09:50 - INFO - Clicked on element #submit
+2024-10-16 11:09:51 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:11:32 - INFO - Clicked on element #signup
+2024-10-16 11:11:32 - INFO - Filled data into #firstName
+2024-10-16 11:11:32 - INFO - Filled data into #lastName
+2024-10-16 11:11:32 - INFO - Filled data into #email
+2024-10-16 11:11:33 - INFO - Filled data into #password
+2024-10-16 11:11:33 - INFO - Clicked on element #submit
+2024-10-16 11:11:34 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:13:59 - INFO - Clicked on element #signup
+2024-10-16 11:13:59 - INFO - Filled data into #firstName
+2024-10-16 11:14:00 - INFO - Filled data into #lastName
+2024-10-16 11:14:00 - INFO - Filled data into #email
+2024-10-16 11:14:00 - INFO - Filled data into #password
+2024-10-16 11:14:01 - INFO - Clicked on element #submit
+2024-10-16 11:14:02 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:18:41 - INFO - Clicked on element #signup
+2024-10-16 11:18:41 - INFO - Filled data into #firstName
+2024-10-16 11:18:42 - INFO - Filled data into #lastName
+2024-10-16 11:18:42 - INFO - Filled data into #email
+2024-10-16 11:18:42 - INFO - Filled data into #password
+2024-10-16 11:18:42 - INFO - Clicked on element #submit
+2024-10-16 11:18:43 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:37:47 - INFO - Clicked on element #signup
+2024-10-16 11:37:47 - INFO - Filled data into #firstName
+2024-10-16 11:37:47 - INFO - Filled data into #lastName
+2024-10-16 11:37:47 - INFO - Filled data into #email
+2024-10-16 11:37:48 - INFO - Filled data into #password
+2024-10-16 11:37:48 - INFO - Clicked on element #submit
+2024-10-16 11:37:49 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:42:33 - INFO - Clicked on element #signup
+2024-10-16 11:42:34 - INFO - Clicked on element #signup
+2024-10-16 11:42:34 - INFO - Clicked on element #signup
+2024-10-16 11:42:34 - INFO - Filled data into #firstName
+2024-10-16 11:42:34 - INFO - Clicked on element #signup
+2024-10-16 11:42:34 - INFO - Filled data into #firstName
+2024-10-16 11:42:34 - INFO - Filled data into #lastName
+2024-10-16 11:42:34 - INFO - Filled data into #firstName
+2024-10-16 11:42:34 - INFO - Filled data into #firstName
+2024-10-16 11:42:35 - INFO - Filled data into #lastName
+2024-10-16 11:42:35 - INFO - Filled data into #email
+2024-10-16 11:42:35 - INFO - Filled data into #lastName
+2024-10-16 11:42:35 - INFO - Filled data into #lastName
+2024-10-16 11:42:35 - INFO - Filled data into #email
+2024-10-16 11:42:35 - INFO - Filled data into #password
+2024-10-16 11:42:35 - INFO - Filled data into #email
+2024-10-16 11:42:35 - INFO - Filled data into #email
+2024-10-16 11:42:35 - INFO - Clicked on element #submit
+2024-10-16 11:42:36 - INFO - Filled data into #password
+2024-10-16 11:42:36 - INFO - Filled data into #password
+2024-10-16 11:42:36 - INFO - Filled data into #password
+2024-10-16 11:42:36 - INFO - Clicked on element #submit
+2024-10-16 11:42:36 - INFO - Clicked on element #submit
+2024-10-16 11:42:36 - INFO - Clicked on element #submit
+2024-10-16 11:42:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:42:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:42:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:42:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:42:38 - INFO - Clicked on element #add-contact
+2024-10-16 11:42:38 - INFO - Clicked on element #add-contact
+2024-10-16 11:42:38 - INFO - Verified on element #firstName
+2024-10-16 11:42:39 - INFO - Verified on element #firstName
+2024-10-16 11:42:39 - INFO - Filled data into #firstName
+2024-10-16 11:42:39 - INFO - Filled data into #firstName
+2024-10-16 11:42:39 - INFO - Clicked on element #add-contact
+2024-10-16 11:42:39 - INFO - Filled data into #lastName
+2024-10-16 11:42:39 - INFO - Filled data into #lastName
+2024-10-16 11:42:39 - INFO - Verified on element #firstName
+2024-10-16 11:42:40 - INFO - Filled data into #birthdate
+2024-10-16 11:42:40 - INFO - Clicked on element #signup
+2024-10-16 11:42:40 - INFO - Filled data into #birthdate
+2024-10-16 11:42:40 - INFO - Filled data into #firstName
+2024-10-16 11:42:40 - INFO - Filled data into #email
+2024-10-16 11:42:40 - INFO - Filled data into #firstName
+2024-10-16 11:42:40 - INFO - Filled data into #lastName
+2024-10-16 11:42:40 - INFO - Filled data into #email
+2024-10-16 11:42:41 - INFO - Filled data into #lastName
+2024-10-16 11:42:41 - INFO - Filled data into #phone
+2024-10-16 11:42:41 - INFO - Filled data into #birthdate
+2024-10-16 11:42:41 - INFO - Filled data into #phone
+2024-10-16 11:42:41 - INFO - Filled data into #email
+2024-10-16 11:42:41 - INFO - Filled data into #street1
+2024-10-16 11:42:41 - INFO - Filled data into #email
+2024-10-16 11:42:41 - INFO - Filled data into #street1
+2024-10-16 11:42:42 - INFO - Filled data into #password
+2024-10-16 11:42:42 - INFO - Filled data into #street2
+2024-10-16 11:42:42 - INFO - Clicked on element #submit
+2024-10-16 11:42:42 - INFO - Filled data into #phone
+2024-10-16 11:42:42 - INFO - Filled data into #street2
+2024-10-16 11:42:42 - INFO - Filled data into #city
+2024-10-16 11:42:43 - INFO - Filled data into #stateProvince
+2024-10-16 11:42:43 - INFO - Filled data into #city
+2024-10-16 11:42:44 - INFO - Filled data into #street1
+2024-10-16 11:42:45 - INFO - Filled data into #postalCode
+2024-10-16 11:42:45 - INFO - Clicked on element #signup
+2024-10-16 11:42:46 - INFO - Filled data into #firstName
+2024-10-16 11:42:46 - INFO - Filled data into #street2
+2024-10-16 11:42:47 - INFO - Filled data into #stateProvince
+2024-10-16 11:42:47 - INFO - Filled data into #country
+2024-10-16 11:42:47 - INFO - Filled data into #lastName
+2024-10-16 11:42:48 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:42:48 - INFO - Filled data into #email
+2024-10-16 11:42:48 - INFO - Filled data into #postalCode
+2024-10-16 11:42:49 - INFO - Filled data into #city
+2024-10-16 11:42:49 - INFO - Filled data into #password
+2024-10-16 11:42:50 - INFO - Filled data into #country
+2024-10-16 11:42:50 - INFO - Filled data into #stateProvince
+2024-10-16 11:42:50 - INFO - Clicked on element #submit
+2024-10-16 11:42:51 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:42:51 - INFO - Filled data into #postalCode
+2024-10-16 11:42:51 - INFO - Filled data into #country
+2024-10-16 11:42:51 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:42:53 - INFO - Clicked on element #signup
+2024-10-16 11:42:53 - INFO - Filled data into #firstName
+2024-10-16 11:42:54 - INFO - Filled data into #lastName
+2024-10-16 11:42:54 - INFO - Filled data into #email
+2024-10-16 11:42:54 - INFO - Clicked on element #signup
+2024-10-16 11:42:54 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 11:42:55 - INFO - Filled data into #password
+2024-10-16 11:42:55 - INFO - Filled data into #firstName
+2024-10-16 11:42:55 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 11:42:55 - INFO - Clicked on element #submit
+2024-10-16 11:42:55 - INFO - Filled data into #lastName
+2024-10-16 11:42:55 - INFO - Filled data into #email
+2024-10-16 11:42:55 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 11:42:56 - INFO - Clicked on element #edit-contact
+2024-10-16 11:42:56 - INFO - Filled data into #password
+2024-10-16 11:42:56 - INFO - Verified on element //h1[text()='Edit Contact']
+2024-10-16 11:42:56 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 11:42:56 - INFO - Clicked on element #submit
+2024-10-16 11:42:56 - INFO - Clicked on element #delete
+2024-10-16 11:42:57 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:42:57 - INFO - Clicked on element #delete
+2024-10-16 11:42:57 - INFO - Clicked on element #add-contact
+2024-10-16 11:42:58 - INFO - Verified on element #firstName
+2024-10-16 11:42:58 - INFO - Filled data into #firstName
+2024-10-16 11:42:58 - INFO - Filled data into #lastName
+2024-10-16 11:42:58 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:42:58 - INFO - Filled data into #lastName
+2024-10-16 11:42:59 - INFO - Filled data into #birthdate
+2024-10-16 11:42:59 - INFO - Filled data into #email
+2024-10-16 11:42:59 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 11:42:59 - INFO - Filled data into #phone
+2024-10-16 11:43:00 - INFO - Filled data into #street1
+2024-10-16 11:43:00 - INFO - Filled data into #street2
+2024-10-16 11:43:00 - INFO - Filled data into #city
+2024-10-16 11:43:00 - INFO - Filled data into #stateProvince
+2024-10-16 11:43:01 - INFO - Filled data into #postalCode
+2024-10-16 11:43:01 - INFO - Filled data into #country
+2024-10-16 11:43:01 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:43:01 - INFO - Clicked on element #signup
+2024-10-16 11:43:02 - INFO - Filled data into #firstName
+2024-10-16 11:43:02 - INFO - Filled data into #lastName
+2024-10-16 11:43:02 - INFO - Filled data into #email
+2024-10-16 11:43:03 - INFO - Filled data into #password
+2024-10-16 11:43:03 - INFO - Clicked on element #add-contact
+2024-10-16 11:43:03 - INFO - Verified on element #firstName
+2024-10-16 11:43:03 - INFO - Clicked on element #submit
+2024-10-16 11:43:03 - INFO - Filled data into #firstName
+2024-10-16 11:43:03 - INFO - Filled data into #lastName
+2024-10-16 11:43:04 - INFO - Filled data into #birthdate
+2024-10-16 11:43:04 - INFO - Filled data into #email
+2024-10-16 11:43:04 - INFO - Filled data into #phone
+2024-10-16 11:43:04 - INFO - Filled data into #street1
+2024-10-16 11:43:04 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:43:05 - INFO - Filled data into #street2
+2024-10-16 11:43:05 - INFO - Filled data into #city
+2024-10-16 11:43:05 - INFO - Clicked on element #add-contact
+2024-10-16 11:43:05 - INFO - Filled data into #stateProvince
+2024-10-16 11:43:05 - INFO - Verified on element #firstName
+2024-10-16 11:43:05 - INFO - Filled data into #postalCode
+2024-10-16 11:43:05 - INFO - Filled data into #firstName
+2024-10-16 11:43:06 - INFO - Filled data into #country
+2024-10-16 11:43:06 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:43:06 - INFO - Filled data into #lastName
+2024-10-16 11:43:06 - INFO - Filled data into #birthdate
+2024-10-16 11:43:06 - INFO - Filled data into #email
+2024-10-16 11:43:07 - INFO - Filled data into #phone
+2024-10-16 11:43:07 - INFO - Filled data into #street1
+2024-10-16 11:43:07 - INFO - Filled data into #street2
+2024-10-16 11:43:07 - INFO - Filled data into #city
+2024-10-16 11:43:08 - INFO - Filled data into #stateProvince
+2024-10-16 11:43:08 - INFO - Filled data into #postalCode
+2024-10-16 11:43:08 - INFO - Filled data into #country
+2024-10-16 11:43:08 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:43:10 - INFO - Clicked on element #signup
+2024-10-16 11:43:10 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 11:43:10 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 11:43:10 - INFO - Filled data into #firstName
+2024-10-16 11:43:11 - INFO - Clicked on element #signup
+2024-10-16 11:43:11 - INFO - Filled data into #lastName
+2024-10-16 11:43:11 - INFO - Filled data into #firstName
+2024-10-16 11:43:11 - INFO - Filled data into #email
+2024-10-16 11:43:11 - INFO - Clicked on element #edit-contact
+2024-10-16 11:43:11 - INFO - Verified on element //h1[text()='Edit Contact']
+2024-10-16 11:43:11 - INFO - Filled data into #lastName
+2024-10-16 11:43:11 - INFO - Filled data into #password
+2024-10-16 11:43:11 - INFO - Clicked on element #submit
+2024-10-16 11:43:12 - INFO - Filled data into #email
+2024-10-16 11:43:12 - INFO - Filled data into #password
+2024-10-16 11:43:12 - INFO - Clicked on element #submit
+2024-10-16 11:43:12 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:43:13 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:43:13 - INFO - Clicked on element #add-contact
+2024-10-16 11:43:13 - INFO - Verified on element #firstName
+2024-10-16 11:43:13 - INFO - Filled data into #firstName
+2024-10-16 11:43:14 - INFO - Filled data into #firstName
+2024-10-16 11:43:14 - INFO - Filled data into #lastName
+2024-10-16 11:43:14 - INFO - Clicked on element #add-contact
+2024-10-16 11:43:14 - INFO - Filled data into #lastName
+2024-10-16 11:43:14 - INFO - Verified on element #firstName
+2024-10-16 11:43:14 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:43:14 - INFO - Filled data into #birthdate
+2024-10-16 11:43:14 - INFO - Filled data into #firstName
+2024-10-16 11:43:14 - INFO - Filled data into #email
+2024-10-16 11:43:15 - INFO - Filled data into #lastName
+2024-10-16 11:43:15 - INFO - Filled data into #phone
+2024-10-16 11:43:15 - INFO - Filled data into #street1
+2024-10-16 11:43:15 - INFO - Filled data into #birthdate
+2024-10-16 11:43:15 - INFO - Filled data into #street2
+2024-10-16 11:43:15 - INFO - Filled data into #email
+2024-10-16 11:43:16 - INFO - Filled data into #city
+2024-10-16 11:43:16 - INFO - Filled data into #phone
+2024-10-16 11:43:16 - INFO - Filled data into #stateProvince
+2024-10-16 11:43:16 - INFO - Filled data into #street1
+2024-10-16 11:43:16 - INFO - Filled data into #postalCode
+2024-10-16 11:43:16 - INFO - Filled data into #street2
+2024-10-16 11:43:16 - INFO - Filled data into #country
+2024-10-16 11:43:16 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:43:16 - INFO - Filled data into #city
+2024-10-16 11:43:17 - INFO - Filled data into #stateProvince
+2024-10-16 11:43:17 - INFO - Filled data into #postalCode
+2024-10-16 11:43:17 - INFO - Filled data into #country
+2024-10-16 11:43:17 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:43:19 - INFO - Clicked on element #signup
+2024-10-16 11:43:19 - INFO - Filled data into #firstName
+2024-10-16 11:43:19 - INFO - Filled data into #lastName
+2024-10-16 11:43:19 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 11:43:19 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 11:43:19 - INFO - Filled data into #email
+2024-10-16 11:43:20 - INFO - Filled data into #password
+2024-10-16 11:43:20 - INFO - Clicked on element #submit
+2024-10-16 11:43:20 - INFO - Clicked on element #delete
+2024-10-16 11:43:20 - INFO - Clicked on element #return
+2024-10-16 11:43:20 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:43:21 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:43:21 - INFO - Clicked on element #add-contact
+2024-10-16 11:43:21 - INFO - Verified on element #firstName
+2024-10-16 11:43:22 - INFO - Filled data into #firstName
+2024-10-16 11:43:22 - INFO - Filled data into #lastName
+2024-10-16 11:43:22 - INFO - Filled data into #birthdate
+2024-10-16 11:43:22 - INFO - Filled data into #email
+2024-10-16 11:43:23 - INFO - Filled data into #phone
+2024-10-16 11:43:23 - INFO - Filled data into #street1
+2024-10-16 11:43:23 - INFO - Filled data into #street2
+2024-10-16 11:43:23 - INFO - Filled data into #city
+2024-10-16 11:43:23 - INFO - Filled data into #stateProvince
+2024-10-16 11:43:23 - INFO - Filled data into #postalCode
+2024-10-16 11:43:24 - INFO - Filled data into #country
+2024-10-16 11:43:24 - INFO - Clicked on element button[type="submit"]
+2024-10-16 11:43:26 - INFO - Clicked on element #signup
+2024-10-16 11:43:26 - INFO - Filled data into #firstName
+2024-10-16 11:43:26 - INFO - Filled data into #lastName
+2024-10-16 11:43:26 - INFO - Filled data into #email
+2024-10-16 11:43:27 - INFO - Filled data into #password
+2024-10-16 11:43:27 - INFO - Clicked on element #submit
+2024-10-16 11:43:28 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 11:43:29 - INFO - Clicked on element #add-contact
+2024-10-16 11:43:29 - INFO - Verified on element #firstName
+2024-10-16 11:43:29 - INFO - Filled data into #firstName
+2024-10-16 11:43:29 - INFO - Filled data into #lastName
+2024-10-16 11:43:29 - INFO - Filled data into #birthdate
+2024-10-16 11:43:29 - INFO - Filled data into #email
+2024-10-16 11:43:30 - INFO - Filled data into #phone
+2024-10-16 11:43:30 - INFO - Filled data into #street1
+2024-10-16 11:43:30 - INFO - Filled data into #street2
+2024-10-16 11:43:30 - INFO - Filled data into #city
+2024-10-16 11:43:30 - INFO - Filled data into #stateProvince
+2024-10-16 11:43:30 - INFO - Filled data into #postalCode
+2024-10-16 11:43:31 - INFO - Filled data into #country
+2024-10-16 11:43:31 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:39:03 - INFO - Clicked on element #signup
+2024-10-16 13:39:03 - INFO - Filled data into #firstName
+2024-10-16 13:39:03 - INFO - Filled data into #lastName
+2024-10-16 13:39:03 - INFO - Filled data into #email
+2024-10-16 13:39:03 - INFO - Filled data into #password
+2024-10-16 13:39:04 - INFO - Clicked on element #submit
+2024-10-16 13:39:05 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:39:06 - INFO - Clicked on element #add-contact
+2024-10-16 13:39:06 - INFO - Verified on element #firstName
+2024-10-16 13:39:06 - INFO - Filled data into #firstName
+2024-10-16 13:39:06 - INFO - Filled data into #lastName
+2024-10-16 13:39:06 - INFO - Filled data into #birthdate
+2024-10-16 13:39:07 - INFO - Filled data into #email
+2024-10-16 13:39:07 - INFO - Filled data into #phone
+2024-10-16 13:39:07 - INFO - Filled data into #street1
+2024-10-16 13:39:07 - INFO - Filled data into #street2
+2024-10-16 13:39:07 - INFO - Filled data into #city
+2024-10-16 13:39:08 - INFO - Filled data into #stateProvince
+2024-10-16 13:39:08 - INFO - Filled data into #postalCode
+2024-10-16 13:39:08 - INFO - Filled data into #country
+2024-10-16 13:39:08 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:39:10 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:39:10 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:39:10 - INFO - Clicked on element #delete
+2024-10-16 13:39:11 - INFO - Clicked on element #delete
+2024-10-16 13:40:18 - INFO - Clicked on element #signup
+2024-10-16 13:40:18 - INFO - Filled data into #firstName
+2024-10-16 13:40:18 - INFO - Filled data into #lastName
+2024-10-16 13:40:18 - INFO - Filled data into #email
+2024-10-16 13:40:18 - INFO - Filled data into #password
+2024-10-16 13:40:19 - INFO - Clicked on element #submit
+2024-10-16 13:40:20 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:40:20 - INFO - Clicked on element #add-contact
+2024-10-16 13:40:20 - INFO - Verified on element #firstName
+2024-10-16 13:40:20 - INFO - Filled data into #firstName
+2024-10-16 13:40:21 - INFO - Filled data into #lastName
+2024-10-16 13:40:21 - INFO - Filled data into #birthdate
+2024-10-16 13:40:21 - INFO - Filled data into #email
+2024-10-16 13:40:21 - INFO - Filled data into #phone
+2024-10-16 13:40:22 - INFO - Filled data into #street1
+2024-10-16 13:40:22 - INFO - Filled data into #street2
+2024-10-16 13:40:22 - INFO - Filled data into #city
+2024-10-16 13:40:22 - INFO - Filled data into #stateProvince
+2024-10-16 13:40:22 - INFO - Filled data into #postalCode
+2024-10-16 13:40:23 - INFO - Filled data into #country
+2024-10-16 13:40:23 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:40:24 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:40:24 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:40:25 - INFO - Clicked on element #delete
+2024-10-16 13:40:25 - INFO - Clicked on element #delete
+2024-10-16 13:40:53 - INFO - Clicked on element #signup
+2024-10-16 13:40:53 - INFO - Filled data into #firstName
+2024-10-16 13:40:53 - INFO - Filled data into #lastName
+2024-10-16 13:40:53 - INFO - Filled data into #email
+2024-10-16 13:40:53 - INFO - Filled data into #password
+2024-10-16 13:40:54 - INFO - Clicked on element #submit
+2024-10-16 13:40:55 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:40:55 - INFO - Clicked on element #add-contact
+2024-10-16 13:40:55 - INFO - Verified on element #firstName
+2024-10-16 13:40:56 - INFO - Filled data into #firstName
+2024-10-16 13:40:56 - INFO - Filled data into #lastName
+2024-10-16 13:40:56 - INFO - Filled data into #birthdate
+2024-10-16 13:40:56 - INFO - Filled data into #email
+2024-10-16 13:40:56 - INFO - Filled data into #phone
+2024-10-16 13:40:57 - INFO - Filled data into #street1
+2024-10-16 13:40:57 - INFO - Filled data into #street2
+2024-10-16 13:40:57 - INFO - Filled data into #city
+2024-10-16 13:40:57 - INFO - Filled data into #stateProvince
+2024-10-16 13:40:58 - INFO - Filled data into #postalCode
+2024-10-16 13:40:58 - INFO - Filled data into #country
+2024-10-16 13:40:58 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:41:00 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:41:00 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:41:00 - INFO - Clicked on element #delete
+2024-10-16 13:41:00 - INFO - Clicked on element #delete
+2024-10-16 13:47:18 - INFO - Clicked on element #signup
+2024-10-16 13:47:18 - INFO - Filled data into #firstName
+2024-10-16 13:47:19 - INFO - Filled data into #lastName
+2024-10-16 13:47:19 - INFO - Filled data into #email
+2024-10-16 13:47:19 - INFO - Filled data into #password
+2024-10-16 13:47:19 - INFO - Clicked on element #submit
+2024-10-16 13:47:20 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:47:21 - INFO - Clicked on element #add-contact
+2024-10-16 13:47:21 - INFO - Verified on element #firstName
+2024-10-16 13:47:21 - INFO - Filled data into #firstName
+2024-10-16 13:47:21 - INFO - Filled data into #lastName
+2024-10-16 13:47:22 - INFO - Filled data into #birthdate
+2024-10-16 13:47:22 - INFO - Filled data into #email
+2024-10-16 13:47:22 - INFO - Filled data into #phone
+2024-10-16 13:47:22 - INFO - Filled data into #street1
+2024-10-16 13:47:22 - INFO - Filled data into #street2
+2024-10-16 13:47:23 - INFO - Filled data into #city
+2024-10-16 13:47:23 - INFO - Filled data into #stateProvince
+2024-10-16 13:47:23 - INFO - Filled data into #postalCode
+2024-10-16 13:47:23 - INFO - Filled data into #country
+2024-10-16 13:47:24 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:47:26 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:47:26 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:47:26 - INFO - Clicked on element #delete
+2024-10-16 13:47:26 - INFO - Clicked on element #delete
+2024-10-16 13:48:21 - INFO - Clicked on element #signup
+2024-10-16 13:48:21 - INFO - Filled data into #firstName
+2024-10-16 13:48:21 - INFO - Filled data into #lastName
+2024-10-16 13:48:21 - INFO - Filled data into #email
+2024-10-16 13:48:21 - INFO - Filled data into #password
+2024-10-16 13:48:22 - INFO - Clicked on element #submit
+2024-10-16 13:48:23 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:48:23 - INFO - Clicked on element #add-contact
+2024-10-16 13:48:23 - INFO - Verified on element #firstName
+2024-10-16 13:48:23 - INFO - Filled data into #firstName
+2024-10-16 13:48:24 - INFO - Filled data into #lastName
+2024-10-16 13:48:24 - INFO - Filled data into #birthdate
+2024-10-16 13:48:24 - INFO - Filled data into #email
+2024-10-16 13:48:24 - INFO - Filled data into #phone
+2024-10-16 13:48:24 - INFO - Filled data into #street1
+2024-10-16 13:48:25 - INFO - Filled data into #street2
+2024-10-16 13:48:25 - INFO - Filled data into #city
+2024-10-16 13:48:25 - INFO - Filled data into #stateProvince
+2024-10-16 13:48:25 - INFO - Filled data into #postalCode
+2024-10-16 13:48:25 - INFO - Filled data into #country
+2024-10-16 13:48:26 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:48:27 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:48:27 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:49:01 - INFO - Clicked on element #signup
+2024-10-16 13:49:02 - INFO - Filled data into #firstName
+2024-10-16 13:49:02 - INFO - Filled data into #lastName
+2024-10-16 13:49:02 - INFO - Filled data into #email
+2024-10-16 13:49:02 - INFO - Filled data into #password
+2024-10-16 13:49:02 - INFO - Clicked on element #submit
+2024-10-16 13:49:03 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:49:04 - INFO - Clicked on element #add-contact
+2024-10-16 13:49:04 - INFO - Verified on element #firstName
+2024-10-16 13:49:04 - INFO - Filled data into #firstName
+2024-10-16 13:49:04 - INFO - Filled data into #lastName
+2024-10-16 13:49:05 - INFO - Filled data into #birthdate
+2024-10-16 13:49:05 - INFO - Filled data into #email
+2024-10-16 13:49:05 - INFO - Filled data into #phone
+2024-10-16 13:49:05 - INFO - Filled data into #street1
+2024-10-16 13:49:06 - INFO - Filled data into #street2
+2024-10-16 13:49:06 - INFO - Filled data into #city
+2024-10-16 13:49:06 - INFO - Filled data into #stateProvince
+2024-10-16 13:49:06 - INFO - Filled data into #postalCode
+2024-10-16 13:49:06 - INFO - Filled data into #country
+2024-10-16 13:49:07 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:49:08 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:49:08 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:49:36 - INFO - Clicked on element #signup
+2024-10-16 13:49:37 - INFO - Filled data into #firstName
+2024-10-16 13:49:37 - INFO - Filled data into #lastName
+2024-10-16 13:49:37 - INFO - Filled data into #email
+2024-10-16 13:49:37 - INFO - Filled data into #password
+2024-10-16 13:49:38 - INFO - Clicked on element #submit
+2024-10-16 13:49:39 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:49:39 - INFO - Clicked on element #add-contact
+2024-10-16 13:49:39 - INFO - Verified on element #firstName
+2024-10-16 13:49:39 - INFO - Filled data into #firstName
+2024-10-16 13:49:40 - INFO - Filled data into #lastName
+2024-10-16 13:49:40 - INFO - Filled data into #birthdate
+2024-10-16 13:49:40 - INFO - Filled data into #email
+2024-10-16 13:49:40 - INFO - Filled data into #phone
+2024-10-16 13:49:40 - INFO - Filled data into #street1
+2024-10-16 13:49:41 - INFO - Filled data into #street2
+2024-10-16 13:49:41 - INFO - Filled data into #city
+2024-10-16 13:49:41 - INFO - Filled data into #stateProvince
+2024-10-16 13:49:41 - INFO - Filled data into #postalCode
+2024-10-16 13:49:42 - INFO - Filled data into #country
+2024-10-16 13:49:42 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:49:43 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:49:43 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:49:44 - INFO - Clicked on element #delete
+2024-10-16 13:49:44 - INFO - Clicked on element #delete
+2024-10-16 13:50:19 - INFO - Clicked on element #signup
+2024-10-16 13:50:20 - INFO - Filled data into #firstName
+2024-10-16 13:50:20 - INFO - Filled data into #lastName
+2024-10-16 13:50:20 - INFO - Filled data into #email
+2024-10-16 13:50:20 - INFO - Filled data into #password
+2024-10-16 13:50:20 - INFO - Clicked on element #submit
+2024-10-16 13:50:21 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:50:22 - INFO - Clicked on element #add-contact
+2024-10-16 13:50:22 - INFO - Verified on element #firstName
+2024-10-16 13:50:22 - INFO - Filled data into #firstName
+2024-10-16 13:50:22 - INFO - Filled data into #lastName
+2024-10-16 13:50:23 - INFO - Filled data into #birthdate
+2024-10-16 13:50:23 - INFO - Filled data into #email
+2024-10-16 13:50:23 - INFO - Filled data into #phone
+2024-10-16 13:50:23 - INFO - Filled data into #street1
+2024-10-16 13:50:24 - INFO - Filled data into #street2
+2024-10-16 13:50:24 - INFO - Filled data into #city
+2024-10-16 13:50:24 - INFO - Filled data into #stateProvince
+2024-10-16 13:50:24 - INFO - Filled data into #postalCode
+2024-10-16 13:50:24 - INFO - Filled data into #country
+2024-10-16 13:50:25 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:50:26 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:50:26 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:50:26 - INFO - Clicked on element #delete
+2024-10-16 13:50:27 - INFO - Clicked on element #delete
+2024-10-16 13:51:53 - INFO - Clicked on element #signup
+2024-10-16 13:51:53 - INFO - Filled data into #firstName
+2024-10-16 13:51:53 - INFO - Filled data into #lastName
+2024-10-16 13:51:54 - INFO - Filled data into #email
+2024-10-16 13:51:54 - INFO - Filled data into #password
+2024-10-16 13:51:54 - INFO - Clicked on element #submit
+2024-10-16 13:51:55 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 13:51:56 - INFO - Clicked on element #add-contact
+2024-10-16 13:51:56 - INFO - Verified on element #firstName
+2024-10-16 13:51:56 - INFO - Filled data into #firstName
+2024-10-16 13:51:56 - INFO - Filled data into #lastName
+2024-10-16 13:51:56 - INFO - Filled data into #birthdate
+2024-10-16 13:51:57 - INFO - Filled data into #email
+2024-10-16 13:51:57 - INFO - Filled data into #phone
+2024-10-16 13:51:57 - INFO - Filled data into #street1
+2024-10-16 13:51:57 - INFO - Filled data into #street2
+2024-10-16 13:51:57 - INFO - Filled data into #city
+2024-10-16 13:51:58 - INFO - Filled data into #stateProvince
+2024-10-16 13:51:58 - INFO - Filled data into #postalCode
+2024-10-16 13:51:58 - INFO - Filled data into #country
+2024-10-16 13:51:58 - INFO - Clicked on element button[type="submit"]
+2024-10-16 13:52:00 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 13:52:00 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 13:52:01 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:00:11 - INFO - Clicked on element #signup
+2024-10-16 14:00:11 - INFO - Filled data into #firstName
+2024-10-16 14:00:12 - INFO - Filled data into #lastName
+2024-10-16 14:00:12 - INFO - Filled data into #email
+2024-10-16 14:00:12 - INFO - Filled data into #password
+2024-10-16 14:00:12 - INFO - Clicked on element #submit
+2024-10-16 14:00:13 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:00:14 - INFO - Clicked on element #add-contact
+2024-10-16 14:00:14 - INFO - Verified on element #firstName
+2024-10-16 14:00:14 - INFO - Filled data into #firstName
+2024-10-16 14:00:14 - INFO - Filled data into #lastName
+2024-10-16 14:00:15 - INFO - Filled data into #birthdate
+2024-10-16 14:00:15 - INFO - Filled data into #email
+2024-10-16 14:00:15 - INFO - Filled data into #phone
+2024-10-16 14:00:15 - INFO - Filled data into #street1
+2024-10-16 14:00:15 - INFO - Filled data into #street2
+2024-10-16 14:00:16 - INFO - Filled data into #city
+2024-10-16 14:00:16 - INFO - Filled data into #stateProvince
+2024-10-16 14:00:16 - INFO - Filled data into #postalCode
+2024-10-16 14:00:16 - INFO - Filled data into #country
+2024-10-16 14:00:17 - INFO - Clicked on element button[type="submit"]
+2024-10-16 14:00:18 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 14:00:18 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 14:00:19 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:02:21 - INFO - Clicked on element #signup
+2024-10-16 14:02:21 - INFO - Filled data into #firstName
+2024-10-16 14:02:21 - INFO - Filled data into #lastName
+2024-10-16 14:02:21 - INFO - Filled data into #email
+2024-10-16 14:02:22 - INFO - Filled data into #password
+2024-10-16 14:02:22 - INFO - Clicked on element #submit
+2024-10-16 14:02:23 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:02:24 - INFO - Clicked on element #add-contact
+2024-10-16 14:02:24 - INFO - Verified on element #firstName
+2024-10-16 14:02:24 - INFO - Filled data into #firstName
+2024-10-16 14:02:24 - INFO - Filled data into #lastName
+2024-10-16 14:02:24 - INFO - Filled data into #birthdate
+2024-10-16 14:02:24 - INFO - Filled data into #email
+2024-10-16 14:02:25 - INFO - Filled data into #phone
+2024-10-16 14:02:25 - INFO - Filled data into #street1
+2024-10-16 14:02:25 - INFO - Filled data into #street2
+2024-10-16 14:02:25 - INFO - Filled data into #city
+2024-10-16 14:02:26 - INFO - Filled data into #stateProvince
+2024-10-16 14:02:26 - INFO - Filled data into #postalCode
+2024-10-16 14:02:26 - INFO - Filled data into #country
+2024-10-16 14:02:26 - INFO - Clicked on element button[type="submit"]
+2024-10-16 14:02:28 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 14:02:28 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 14:02:31 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:05:49 - INFO - Clicked on element #signup
+2024-10-16 14:05:49 - INFO - Filled data into #firstName
+2024-10-16 14:05:50 - INFO - Filled data into #lastName
+2024-10-16 14:05:50 - INFO - Filled data into #email
+2024-10-16 14:05:50 - INFO - Filled data into #password
+2024-10-16 14:05:50 - INFO - Clicked on element #submit
+2024-10-16 14:05:51 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:05:52 - INFO - Clicked on element #add-contact
+2024-10-16 14:05:52 - INFO - Verified on element #firstName
+2024-10-16 14:05:52 - INFO - Filled data into #firstName
+2024-10-16 14:05:52 - INFO - Filled data into #lastName
+2024-10-16 14:05:53 - INFO - Filled data into #birthdate
+2024-10-16 14:05:53 - INFO - Filled data into #email
+2024-10-16 14:05:53 - INFO - Filled data into #phone
+2024-10-16 14:05:53 - INFO - Filled data into #street1
+2024-10-16 14:05:53 - INFO - Filled data into #street2
+2024-10-16 14:05:54 - INFO - Filled data into #city
+2024-10-16 14:05:54 - INFO - Filled data into #stateProvince
+2024-10-16 14:05:54 - INFO - Filled data into #postalCode
+2024-10-16 14:05:54 - INFO - Filled data into #country
+2024-10-16 14:05:54 - INFO - Clicked on element button[type="submit"]
+2024-10-16 14:05:56 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 14:05:56 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 14:06:41 - INFO - Clicked on element #signup
+2024-10-16 14:06:41 - INFO - Filled data into #firstName
+2024-10-16 14:06:42 - INFO - Filled data into #lastName
+2024-10-16 14:06:42 - INFO - Filled data into #email
+2024-10-16 14:06:42 - INFO - Filled data into #password
+2024-10-16 14:06:42 - INFO - Clicked on element #submit
+2024-10-16 14:06:43 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:06:44 - INFO - Clicked on element #add-contact
+2024-10-16 14:06:44 - INFO - Verified on element #firstName
+2024-10-16 14:06:44 - INFO - Filled data into #firstName
+2024-10-16 14:06:44 - INFO - Filled data into #lastName
+2024-10-16 14:06:44 - INFO - Filled data into #birthdate
+2024-10-16 14:06:45 - INFO - Filled data into #email
+2024-10-16 14:06:45 - INFO - Filled data into #phone
+2024-10-16 14:06:45 - INFO - Filled data into #street1
+2024-10-16 14:06:45 - INFO - Filled data into #street2
+2024-10-16 14:06:46 - INFO - Filled data into #city
+2024-10-16 14:06:46 - INFO - Filled data into #stateProvince
+2024-10-16 14:06:46 - INFO - Filled data into #postalCode
+2024-10-16 14:06:46 - INFO - Filled data into #country
+2024-10-16 14:06:47 - INFO - Clicked on element button[type="submit"]
+2024-10-16 14:06:48 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 14:06:48 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 14:11:49 - INFO - Clicked on element #signup
+2024-10-16 14:11:49 - INFO - Filled data into #firstName
+2024-10-16 14:11:49 - INFO - Filled data into #lastName
+2024-10-16 14:11:50 - INFO - Filled data into #email
+2024-10-16 14:11:50 - INFO - Filled data into #password
+2024-10-16 14:11:50 - INFO - Clicked on element #submit
+2024-10-16 14:11:51 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:11:52 - INFO - Clicked on element #add-contact
+2024-10-16 14:11:52 - INFO - Verified on element #firstName
+2024-10-16 14:11:52 - INFO - Filled data into #firstName
+2024-10-16 14:11:52 - INFO - Filled data into #lastName
+2024-10-16 14:11:52 - INFO - Filled data into #birthdate
+2024-10-16 14:11:53 - INFO - Filled data into #email
+2024-10-16 14:11:53 - INFO - Filled data into #phone
+2024-10-16 14:11:53 - INFO - Filled data into #street1
+2024-10-16 14:11:53 - INFO - Filled data into #street2
+2024-10-16 14:11:53 - INFO - Filled data into #city
+2024-10-16 14:11:54 - INFO - Filled data into #stateProvince
+2024-10-16 14:11:54 - INFO - Filled data into #postalCode
+2024-10-16 14:11:54 - INFO - Filled data into #country
+2024-10-16 14:11:55 - INFO - Clicked on element button[type="submit"]
+2024-10-16 14:11:57 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 14:11:57 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 14:11:58 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:15:29 - INFO - Clicked on element #signup
+2024-10-16 14:17:20 - INFO - Clicked on element #signup
+2024-10-16 14:17:21 - INFO - Filled data into #firstName
+2024-10-16 14:17:21 - INFO - Filled data into #lastName
+2024-10-16 14:17:21 - INFO - Filled data into #email
+2024-10-16 14:17:21 - INFO - Filled data into #password
+2024-10-16 14:17:21 - INFO - Clicked on element #submit
+2024-10-16 14:17:22 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:17:23 - INFO - Clicked on element #add-contact
+2024-10-16 14:17:23 - INFO - Verified on element #firstName
+2024-10-16 14:17:23 - INFO - Filled data into #firstName
+2024-10-16 14:17:24 - INFO - Filled data into #lastName
+2024-10-16 14:17:24 - INFO - Filled data into #birthdate
+2024-10-16 14:17:24 - INFO - Filled data into #email
+2024-10-16 14:17:24 - INFO - Filled data into #phone
+2024-10-16 14:17:24 - INFO - Filled data into #street1
+2024-10-16 14:17:25 - INFO - Filled data into #street2
+2024-10-16 14:17:25 - INFO - Filled data into #city
+2024-10-16 14:17:25 - INFO - Filled data into #stateProvince
+2024-10-16 14:17:25 - INFO - Filled data into #postalCode
+2024-10-16 14:17:26 - INFO - Filled data into #country
+2024-10-16 14:17:26 - INFO - Clicked on element button[type="submit"]
+2024-10-16 14:17:27 - INFO - Clicked on element td:nth-child(2)
+2024-10-16 14:17:28 - INFO - Verified on element //h1[text()='Contact Details']
+2024-10-16 14:21:52 - INFO - Clicked on element #signup
+2024-10-16 14:21:52 - INFO - Filled data into #firstName
+2024-10-16 14:21:52 - INFO - Filled data into #lastName
+2024-10-16 14:21:52 - INFO - Filled data into #email
+2024-10-16 14:21:53 - INFO - Filled data into #password
+2024-10-16 14:21:53 - INFO - Clicked on element #submit
+2024-10-16 14:21:54 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:24:39 - INFO - Clicked on element #signup
+2024-10-16 14:24:40 - INFO - Filled data into #firstName
+2024-10-16 14:24:40 - INFO - Filled data into #lastName
+2024-10-16 14:24:40 - INFO - Filled data into #email
+2024-10-16 14:24:40 - INFO - Filled data into #password
+2024-10-16 14:24:41 - INFO - Clicked on element #submit
+2024-10-16 14:24:42 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:30:33 - INFO - Clicked on element #signup
+2024-10-16 14:30:33 - INFO - Filled data into #firstName
+2024-10-16 14:30:33 - INFO - Filled data into #lastName
+2024-10-16 14:30:34 - INFO - Filled data into #email
+2024-10-16 14:30:34 - INFO - Filled data into #password
+2024-10-16 14:30:34 - INFO - Clicked on element #submit
+2024-10-16 14:30:35 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 14:33:44 - INFO - Clicked on element #signup
+2024-10-16 14:33:45 - INFO - Filled data into #firstName
+2024-10-16 14:33:45 - INFO - Filled data into #lastName
+2024-10-16 14:33:45 - INFO - Filled data into #email
+2024-10-16 14:33:45 - INFO - Filled data into #password
+2024-10-16 14:33:46 - INFO - Clicked on element #submit
+2024-10-16 14:33:47 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:44:04 - INFO - Filled data into #email
+2024-10-16 15:44:04 - INFO - Filled data into #password
+2024-10-16 15:44:05 - INFO - Clicked on element #submit
+2024-10-16 15:44:07 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:44:07 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:44:11 - INFO - Filled data into #email
+2024-10-16 15:44:12 - INFO - Filled data into #password
+2024-10-16 15:44:12 - INFO - Clicked on element #submit
+2024-10-16 15:44:13 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:44:13 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:51:18 - INFO - Clicked on element #signup
+2024-10-16 15:51:18 - INFO - Filled data into #firstName
+2024-10-16 15:51:18 - INFO - Filled data into #lastName
+2024-10-16 15:51:18 - INFO - Filled data into #email
+2024-10-16 15:51:19 - INFO - Filled data into #password
+2024-10-16 15:51:19 - INFO - Clicked on element #submit
+2024-10-16 15:51:20 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:53:07 - INFO - Filled data into #email
+2024-10-16 15:53:07 - INFO - Filled data into #password
+2024-10-16 15:53:07 - INFO - Clicked on element #submit
+2024-10-16 15:53:08 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:53:09 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:01 - INFO - Filled data into #email
+2024-10-16 15:54:02 - INFO - Filled data into #password
+2024-10-16 15:54:02 - INFO - Filled data into #email
+2024-10-16 15:54:02 - INFO - Clicked on element #submit
+2024-10-16 15:54:02 - INFO - Filled data into #password
+2024-10-16 15:54:03 - INFO - Clicked on element #submit
+2024-10-16 15:54:04 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:04 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:04 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:04 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:08 - INFO - Filled data into #email
+2024-10-16 15:54:09 - INFO - Filled data into #password
+2024-10-16 15:54:09 - INFO - Clicked on element #submit
+2024-10-16 15:54:10 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:10 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:55 - INFO - Filled data into #email
+2024-10-16 15:54:55 - INFO - Filled data into #password
+2024-10-16 15:54:55 - INFO - Clicked on element #submit
+2024-10-16 15:54:56 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:54:57 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:55:30 - INFO - Filled data into #email
+2024-10-16 15:55:30 - INFO - Filled data into #password
+2024-10-16 15:55:30 - INFO - Clicked on element #submit
+2024-10-16 15:55:31 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:55:31 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:55:36 - INFO - Filled data into #email
+2024-10-16 15:55:36 - INFO - Filled data into #password
+2024-10-16 15:55:36 - INFO - Clicked on element #submit
+2024-10-16 15:55:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:55:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:58:18 - INFO - Filled data into #email
+2024-10-16 15:58:18 - INFO - Filled data into #password
+2024-10-16 15:58:18 - INFO - Clicked on element #submit
+2024-10-16 15:58:19 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:58:56 - INFO - Filled data into #email
+2024-10-16 15:58:56 - INFO - Filled data into #password
+2024-10-16 15:58:56 - INFO - Clicked on element #submit
+2024-10-16 15:58:57 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:59:34 - INFO - Filled data into #email
+2024-10-16 15:59:34 - INFO - Filled data into #password
+2024-10-16 15:59:35 - INFO - Clicked on element #submit
+2024-10-16 15:59:36 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 15:59:36 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:07 - INFO - Filled data into #email
+2024-10-16 16:00:07 - INFO - Filled data into #password
+2024-10-16 16:00:08 - INFO - Clicked on element #submit
+2024-10-16 16:00:09 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:09 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:34 - INFO - Filled data into #email
+2024-10-16 16:00:34 - INFO - Filled data into #password
+2024-10-16 16:00:35 - INFO - Clicked on element #submit
+2024-10-16 16:00:35 - INFO - Filled data into #email
+2024-10-16 16:00:35 - INFO - Filled data into #password
+2024-10-16 16:00:36 - INFO - Filled data into #email
+2024-10-16 16:00:36 - INFO - Clicked on element #submit
+2024-10-16 16:00:36 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:36 - INFO - Filled data into #email
+2024-10-16 16:00:36 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:36 - INFO - Filled data into #password
+2024-10-16 16:00:36 - INFO - Filled data into #password
+2024-10-16 16:00:37 - INFO - Clicked on element #submit
+2024-10-16 16:00:37 - INFO - Clicked on element #submit
+2024-10-16 16:00:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:37 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:38 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:38 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:38 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:38 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:43 - INFO - Filled data into #email
+2024-10-16 16:00:44 - INFO - Filled data into #password
+2024-10-16 16:00:44 - INFO - Clicked on element #submit
+2024-10-16 16:00:46 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-16 16:00:46 - INFO - Verified on element //h1[text()='Contact List']

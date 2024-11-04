@@ -1,0 +1,349 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Unsuccessful Contact Creation for the New User @apiinvalidcontact",
+      "uid" : "3a4611860d8281c3",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645184643,
+        "stop" : 1729645189263,
+        "duration" : 4620
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Contact Creation for the New User @apinewcontact",
+      "uid" : "11838ebbc6772af1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645161557,
+        "stop" : 1729645171944,
+        "duration" : 10387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Multiple Creation of Contact for the New User @apiadditionalcontact",
+      "uid" : "24d8d7adf11555a6",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645173218,
+        "stop" : 1729645183620,
+        "duration" : 10402
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-6",
+    "children" : [ {
+      "name" : "Unsuccessful Contact Deletion @uiinvaliddelete",
+      "uid" : "e780901681f4dab1",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644882749,
+        "stop" : 1729644906494,
+        "duration" : 23745
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Contact Deletion @uideletecontact",
+      "uid" : "af22c7e103cc282a",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "broken",
+      "time" : {
+        "start" : 1729645003649,
+        "stop" : 1729645022036,
+        "duration" : 18387
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Contact Deletion @uideletecontact",
+      "uid" : "182a93d849627cbd",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645069841,
+        "stop" : 1729645088278,
+        "duration" : 18437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Contact Deletion @uideletecontact",
+      "uid" : "9d4d37b55452972a",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "broken",
+      "time" : {
+        "start" : 1729644847995,
+        "stop" : 1729644881711,
+        "duration" : 33716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "6d5170ae525a2fb0dfa4066ed7bef924"
+  }, {
+    "name" : "0-5",
+    "children" : [ {
+      "name" : "Unsuccessful Contact Creation for the New User @uiinvalidcontact- Iteration_2",
+      "uid" : "726be14fb6096c1f",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644923580,
+        "stop" : 1729644936525,
+        "duration" : 12945
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Multiple Creation of Contact for the New User @uimultiplecontact",
+      "uid" : "41c227e5e629d7de",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644878719,
+        "stop" : 1729644908186,
+        "duration" : 29467
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Unsuccessful Contact Creation for the New User @uiinvalidcontact- Iteration_1",
+      "uid" : "4ce971025efceca0",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644909238,
+        "stop" : 1729644922511,
+        "duration" : 13273
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Contact Creation for the New User @uinewcontact",
+      "uid" : "df4d2c28382f6cf6",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644848005,
+        "stop" : 1729644877683,
+        "duration" : 29678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Unsuccessful Contact Creation for the New User @uiinvalidcontact- Iteration_3",
+      "uid" : "dbb57ffffd8e2f12",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644937579,
+        "stop" : 1729644950474,
+        "duration" : 12895
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "6ea253441b78cd38797e932a74777a9c"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Unsuccessful Account Creation Fails Due to Invalid Data @apifailedaccountcreation",
+      "uid" : "872285478990c6fa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645180891,
+        "stop" : 1729645185447,
+        "duration" : 4556
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Account Creation @apiaccountcreation",
+      "uid" : "5370da6e096813b5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645161571,
+        "stop" : 1729645179843,
+        "duration" : 18272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-7",
+    "children" : [ {
+      "name" : "Successful Update of Contact @uieditcontact",
+      "uid" : "4a9fe4d6b7211ba3",
+      "parentUid" : "21aceb05e3618121b78af6a48c646d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644847963,
+        "stop" : 1729644880138,
+        "duration" : 32175
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Unsuccessful Update of Contact @uiinvalidupdate- Iteration_1",
+      "uid" : "1999e3ed6c73270b",
+      "parentUid" : "21aceb05e3618121b78af6a48c646d54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644881181,
+        "stop" : 1729644901996,
+        "duration" : 20815
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "21aceb05e3618121b78af6a48c646d54"
+  }, {
+    "name" : "0-4",
+    "children" : [ {
+      "name" : "Unsuccessful Account Creation Fails Due to Invalid Data @uiinvalidaccountcreation - Iteration_3",
+      "uid" : "68f54356e46a6029",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644878952,
+        "stop" : 1729644884968,
+        "duration" : 6016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Account Creation @uiaccountcreation",
+      "uid" : "78a1585dffb907b8",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644848010,
+        "stop" : 1729644859449,
+        "duration" : 11439
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Unsuccessful Account Creation Fails Due to Invalid Data @uiinvalidaccountcreation - Iteration_1",
+      "uid" : "4ee94fc0d1f70a03",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644860583,
+        "stop" : 1729644870038,
+        "duration" : 9455
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Unsuccessful Account Creation Fails Due to Invalid Data @uiinvalidaccountcreation - Iteration_2",
+      "uid" : "4e09517e7309a23b",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729644871057,
+        "stop" : 1729644877923,
+        "duration" : 6866
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d"
+  }, {
+    "name" : "0-3",
+    "children" : [ {
+      "name" : "Unsuccessful Update of Contact @apiinvalideditcontact",
+      "uid" : "73b64fe94971fe01",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645180599,
+        "stop" : 1729645185976,
+        "duration" : 5377
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Successful Update of Contact @apieditcontact",
+      "uid" : "dd937b0304386819",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "broken",
+      "time" : {
+        "start" : 1729645161566,
+        "stop" : 1729645187009,
+        "duration" : 25443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "b755a79e149728f67460aea38b0710e0"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "Successful Contact Deletion @apideletecontact",
+      "uid" : "266ac3592ea36640",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645161556,
+        "stop" : 1729645180250,
+        "duration" : 18694
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    }, {
+      "name" : "Unsuccessful Contact Deletion @apiinvaliddeletecontact",
+      "uid" : "4f6de0c3218b8197",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1729645181306,
+        "stop" : 1729645185744,
+        "duration" : 4438
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-130.0.6723.59" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  } ]
+}

@@ -1,0 +1,63 @@
+{
+  "errorData": {
+    "errors": {
+      "firstName": {
+        "name": "ValidatorError",
+        "message": "Path `firstName` is required.",
+        "properties": {
+          "message": "Path `firstName` is required.",
+          "type": "required",
+          "path": "firstName",
+          "value": ""
+        },
+        "kind": "required",
+        "path": "firstName",
+        "value": ""
+      },
+      "lastName": {
+        "name": "ValidatorError",
+        "message": "Path `lastName` is required.",
+        "properties": {
+          "message": "Path `lastName` is required.",
+          "type": "required",
+          "path": "lastName",
+          "value": ""
+        },
+        "kind": "required",
+        "path": "lastName",
+        "value": ""
+      },
+      "email": {
+        "name": "ValidatorError",
+        "message": "Email is invalid",
+        "properties": {
+          "message": "Email is invalid",
+          "type": "user defined",
+          "path": "email",
+          "value": "",
+          "reason": {}
+        },
+        "kind": "user defined",
+        "path": "email",
+        "value": "",
+        "reason": {}
+      },
+      "password": {
+        "name": "ValidatorError",
+        "message": "Path `password` is required.",
+        "properties": {
+          "message": "Path `password` is required.",
+          "type": "required",
+          "path": "password",
+          "value": ""
+        },
+        "kind": "required",
+        "path": "password",
+        "value": ""
+      }
+    },
+    "_message": "User validation failed",
+    "message": "User validation failed: firstName: Path `firstName` is required., lastName: Path `lastName` is required., email: Email is invalid, password: Path `password` is required."
+  },
+  "status": 400
+}

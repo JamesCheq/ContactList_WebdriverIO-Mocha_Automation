@@ -1,0 +1,188 @@
+{
+  "uid" : "68f54356e46a6029",
+  "name" : "Unsuccessful Account Creation Fails Due to Invalid Data @uiinvalidaccountcreation - Iteration_3",
+  "historyId" : "be97a62e25e16997f702a4ce1a5dd08c",
+  "time" : {
+    "start" : 1729644878952,
+    "stop" : 1729644884968,
+    "duration" : 6016
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "click Sign Up Button",
+      "time" : {
+        "start" : 1729644880673,
+        "stop" : 1729644881148,
+        "duration" : 475
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c579a28e3ffbecec",
+        "name" : "click Sign Up Button",
+        "source" : "c579a28e3ffbecec.png",
+        "type" : "image/png",
+        "size" : 28516
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter First Name",
+      "time" : {
+        "start" : 1729644881546,
+        "stop" : 1729644881989,
+        "duration" : 443
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d02d393c96d803f1",
+        "name" : "enter First Name",
+        "source" : "d02d393c96d803f1.png",
+        "type" : "image/png",
+        "size" : 28988
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Last Name",
+      "time" : {
+        "start" : 1729644882344,
+        "stop" : 1729644882763,
+        "duration" : 419
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "970c4a2872b74c6",
+        "name" : "enter Last Name",
+        "source" : "970c4a2872b74c6.png",
+        "type" : "image/png",
+        "size" : 28937
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Email",
+      "time" : {
+        "start" : 1729644883124,
+        "stop" : 1729644883558,
+        "duration" : 434
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3f657faea682ad09",
+        "name" : "enter Email",
+        "source" : "3f657faea682ad09.png",
+        "type" : "image/png",
+        "size" : 28669
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "enter Password",
+      "time" : {
+        "start" : 1729644883956,
+        "stop" : 1729644884355,
+        "duration" : 399
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d54877afcb25eeb2",
+        "name" : "enter Password",
+        "source" : "d54877afcb25eeb2.png",
+        "type" : "image/png",
+        "size" : 29074
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "click Submit Button",
+      "time" : {
+        "start" : 1729644884580,
+        "stop" : 1729644884967,
+        "duration" : 387
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "87386018c54722e",
+        "name" : "click Submit Button",
+        "source" : "87386018c54722e.png",
+        "type" : "image/png",
+        "size" : 28672
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "package",
+    "value" : "C:.Users.Jason Solis.Documents.Automation.Selenium Javascript WebdriverIO.Contact_List_Mocha_Automation.test.ui.Account_Creation_via_UI.spec.js"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "Account Creation via UI @UICreation @ALLUI"
+  }, {
+    "name" : "feature",
+    "value" : "Account Creation via UI @UICreation @ALLUI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-130.0.6723.59"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68f54356e46a6029.json",
+  "parameterValues" : [ "chrome-130.0.6723.59" ]
+}

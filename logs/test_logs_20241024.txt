@@ -1,0 +1,14 @@
+2024-10-24 12:53:55 - INFO - This element is visible: #email
+2024-10-24 12:53:55 - INFO - Filled data into #email
+2024-10-24 12:53:55 - INFO - This element is visible: #password
+2024-10-24 12:53:55 - INFO - Filled data into #password
+2024-10-24 12:53:56 - INFO - Clicked on element #submit
+2024-10-24 12:53:57 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-24 12:53:57 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-24 13:48:06 - INFO - This element is visible: #email
+2024-10-24 13:48:06 - INFO - Filled data into #email
+2024-10-24 13:48:06 - INFO - This element is visible: #password
+2024-10-24 13:48:07 - INFO - Filled data into #password
+2024-10-24 13:48:07 - INFO - Clicked on element #submit
+2024-10-24 13:48:09 - INFO - Verified on element //h1[text()='Contact List']
+2024-10-24 13:48:10 - INFO - Verified on element //h1[text()='Contact List']
